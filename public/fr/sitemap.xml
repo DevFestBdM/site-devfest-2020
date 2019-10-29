@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/fr/code-of-conduct/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/code-of-conduct/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/code-of-conduct/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/fr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/tags/"
+                />
+  </url>
+  
+</urlset>
