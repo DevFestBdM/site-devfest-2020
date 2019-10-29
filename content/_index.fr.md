@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Accueil
 icon: home
 
 menu:
@@ -17,20 +17,23 @@ menu:
 ### Faculté de Lettres et Sciences Humaines
 ### Brest, Brittany
 
-{{< button-link label="Submit a presentation"
+<!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4" target="_blank">Devenez Partenaire 🇫🇷</a> -->
+
+{{< button-link label="Proposer une présentation"
                 url="https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD"
                 icon="cfp" >}}
 
 {{% /jumbo %}}
 
+
+
 <!-- ... -->
 
 {{% home-info what="Participants:400,Day:1,Sessions:32,Parallel Tracks:4" class="primary" %}}
 
-## What is DevFest du Bout du Monde?
+## Le DevFest du Bout du Monde, c'est quoi ?
 
-The DevFest, or 'Developers Festival', is a technical conference for developers. 
-It is aimed at students, professionals or simply curious technophiles.
+Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles.
 
 {{% /home-info %}}
 
@@ -38,11 +41,12 @@ It is aimed at students, professionals or simply curious technophiles.
 
 {{% home-subscribe class="primary" %}}
 
-## Don't miss out anything!
+## Soyez notifié des dernières informations !
 
 {{% /home-subscribe %}}
 
 <!-- ... -->
+
 
 {{% home-location
     image="/images/map.jpg"
@@ -54,11 +58,9 @@ It is aimed at students, professionals or simply curious technophiles.
 
 ### Faculté de Lettres et Sciences Humaines
 
-The Faculté de Lettres et Sciences Humaines, at the very heart of Brest, hosts once again the DevFest du Bout du Monde
+La Faculté de Lettres et Sciences Humaines, en plein coeur de Brest, 
+accueillira à nouveau cette année le DevFest du Bout du Monde.
 
 {{% /home-location %}}
-
-<!-- ... -->
-
 
 <!-- ... -->
