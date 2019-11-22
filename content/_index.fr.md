@@ -70,9 +70,9 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 
 {{% home-location
     image="/images/map.jpg"
-    address="Faculté de Lettres et Sciences Humaines"
-    latitude="48.38846"
-    longitude="4.48633" %}}
+    address="20 Rue Duquesne, 29200 Brest, France"
+    latitude="48.3918316"
+    longitude="-4.4883138" %}}
 
 ## The venue
 
