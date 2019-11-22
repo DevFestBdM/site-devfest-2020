@@ -2,7 +2,6 @@ baseURL = "https://devfest.duboutdumonde.bzh/"
 languageCode = "fr-fr"
 title = "DevFest du Bout du Monde 2020"
 theme = "devfest-theme-hugo"
-URL = "https://devfest.duboutdumonde.bzh/"
 
 
 enableEmoji = true
@@ -14,7 +13,6 @@ googleAnalytics = "UA-XXXXXXXX-X"
 
 
 [params]
-    url = "https://devfest.duboutdumonde.bzh/"
     title = "DevFest du Bout du Monde 2020"
     date = "2020-02-28"
     description = "The DevFest, or 'Developers Festival', is a technical conferences for software developers. It is aimed to students, profesionals or simply curious technophile."
