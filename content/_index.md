@@ -36,14 +36,6 @@ It is aimed at students, professionals or simply curious technophiles.
 
 <!-- ... -->
 
-{{% home-subscribe class="primary" %}}
-
-## Don't miss out anything!
-
-{{% /home-subscribe %}}
-
-<!-- ... -->
-
 {{% home-tickets %}}
 <a class="btn primary" href="https://www.billetweb.fr/devfest-bdm-2020" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
 
