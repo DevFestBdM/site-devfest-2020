@@ -44,6 +44,35 @@ It is aimed at students, professionals or simply curious technophiles.
 
 <!-- ... -->
 
+{{% home-tickets %}}
+<a class="btn primary" href="https://www.billetweb.fr/devfest-bdm-2020" target="_blank"><svg class="icon icon-cfp"><use xlink:href="#ticket"></use></svg>Ticketing</a>
+
+<ul>
+<li>{{< ticket name="Pre Early Birds"
+           starts="2019-11-22"
+           ends="2019-11-30"
+           price="20 €"
+           info="25 first places"
+           url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
+<li>{{< ticket name="Early Birds"
+           starts="2019-12-01"
+           ends="2019-12-15"
+           price="25 €"
+           info="50 next places"
+           close="true"
+           url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
+<li>{{< ticket name="Normal"
+           starts="2019-12-16"
+           ends="2020-02-27"
+           price="30 €"
+           info="325 remaining places"
+           close="true"
+           url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
+</ul>
+{{% /home-tickets %}}
+
+<!-- ... -->
+
 {{% home-location
     image="/images/map.jpg"
     address="Faculté de Lettres et Sciences Humaines"
