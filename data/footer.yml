@@ -18,5 +18,5 @@ content:
         url: https://codedarmor.fr/
         newTab: true
       - nameKey: footer_coc
-        url: /code-of-conduct/
+        url: code-of-conduct/
         newTab: false
