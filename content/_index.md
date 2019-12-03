@@ -45,13 +45,13 @@ It is aimed at students, professionals or simply curious technophiles.
            ends="2019-11-30"
            price="20 €"
            info="25 first places"
+           close="true"
            url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
 <li>{{< ticket name="Early Birds"
            starts="2019-12-01"
            ends="2019-12-15"
            price="25 €"
            info="50 next places"
-           close="true"
            url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
 <li>{{< ticket name="Normal"
            starts="2019-12-16"
