@@ -22,7 +22,7 @@ googleAnalytics = "UA-XXXXXXXX-X"
     copyright = "We ❤️️ crepes"
     cfpUrl = "https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD"
     subscriptionUrl = ""
-    sponsorshipUrl="/sponsorship/Dossier-sponsoring-2020-v1.pdf"
+    sponsorshipUrl="/sponsorship/Dossier-sponsoring-2020.pdf"
     appleTouchIcon = "/apple-touch-icon.png"
     favicon32 = "/favicon-32x32.png"
     favicon16 = "/favicon-16x16.png"
@@ -60,7 +60,7 @@ googleAnalytics = "UA-XXXXXXXX-X"
     external = true
 [[menu.main]]    
     name = "Sponsorship"
-    url = "/sponsorship/Dossier-sponsoring-2020-v1.pdf"
+    url = "/sponsorship/Dossier-sponsoring-2020.pdf"
     weight = 300
     external = true
 

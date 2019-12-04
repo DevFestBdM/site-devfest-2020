@@ -1,0 +1,23 @@
+[debug] [2019-12-04T02:43:10.801Z] ----------------------------------------------------------------------
+[debug] [2019-12-04T02:43:10.810Z] Command:       /home/horacio/opt/graalvm-ce-java11-19.3.0/languages/js/bin/node /home/horacio/opt/node/bin/firebase deploy
+[debug] [2019-12-04T02:43:10.811Z] CLI Version:   7.6.2
+[debug] [2019-12-04T02:43:10.812Z] Platform:      linux
+[debug] [2019-12-04T02:43:10.813Z] Node Version:  v12.10.0
+[debug] [2019-12-04T02:43:10.814Z] Time:          Wed Dec 04 2019 02:43:10 GMT+0000 (UTC)
+[debug] [2019-12-04T02:43:10.815Z] ----------------------------------------------------------------------
+[debug] [2019-12-04T02:43:10.817Z] 
+[debug] [2019-12-04T02:43:11.148Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-12-04T02:43:11.151Z] > authorizing via signed-in user
+[debug] [2019-12-04T02:43:11.155Z] [iam] checking project devfestbdm for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2019-12-04T02:43:11.162Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/devfestbdm:testIamPermissions  
+
+[debug] [2019-12-04T02:43:12.827Z] <<< HTTP RESPONSE 200
+[debug] [2019-12-04T02:43:12.834Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/devfestbdm  
+ 
+[debug] [2019-12-04T02:43:13.060Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'devfestbdm'...
+[info] 
+[info] i  deploying hosting
+[debug] [2019-12-04T02:43:13.091Z] >>> HTTP REQUEST POST https://firebasehosting.googleapis.com/v1beta1/sites/devfestbdm/versions  
+
