@@ -82,4 +82,9 @@ The Faculté de Lettres et Sciences Humaines, at the very heart of Brest, hosts 
 <!-- ... -->
 
 
+{{% youtube-section 
+
+    title="Aftermovie DevFest du Bout du Monde 2019" 
+    link="q_dndapuilI" %}}
+
 <!-- ... -->

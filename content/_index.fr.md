@@ -84,3 +84,11 @@ accueillira à nouveau cette année le DevFest du Bout du Monde.
 {{% /home-location %}}
 
 <!-- ... -->
+
+{{% youtube-section 
+
+    title="Aftermovie DevFest du Bout du Monde 2019" 
+    link="q_dndapuilI" %}}
+
+<!-- ... -->
+
