@@ -52,13 +52,13 @@ It is aimed at students, professionals or simply curious technophiles.
            ends="2019-12-15"
            price="25 €"
            info="50 next places"
+           close="true"
            url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
 <li>{{< ticket name="Normal"
            starts="2019-12-16"
            ends="2020-02-27"
            price="30 €"
            info="325 remaining places"
-           close="true"
            url="https://www.billetweb.fr/devfest-bdm-2020" >}}</li>
 </ul>
 {{% /home-tickets %}}
