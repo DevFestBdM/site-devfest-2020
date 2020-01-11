@@ -11,6 +11,25 @@
     
     
     <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/ludovic_champenois/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/ludovic_champenois/</guid>
+      <description>Google App Engine Java Tech Lead, depuis 2011.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/tugdual_grall.md/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/tugdual_grall.md/</guid>
+      <description>Tugdual Grall, est Technical Account Manager chez Redis Lavs ou il accompagne les clients dans le déploiement de Redis, et participate a l&amp;rsquo;adoption de Redis et du NoSQL dans les communautés de développeurs.
+Avant de travailler chez Redis Labs, &amp;ldquo;Tug&amp;rdquo;, était Directeur du Product Management chez Red Hat, Technical Evangelist chez MapR, MongoDB et Couchbase. Tug a également travaillé comme CTO chez eXo Platform, et comme Product Manager et Développeur sur la platform JavaEE d&amp;rsquo;Oracle.</description>
+    </item>
+    
+    <item>
       <title>Aurélien Hébert</title>
       <link>https://devfest.duboutdumonde.bzh/team/core/aurelien_hebert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

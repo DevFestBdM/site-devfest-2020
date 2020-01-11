@@ -66,6 +66,18 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
 </ul>
 {{% /home-tickets %}}
 
+
+<!-- ... -->
+
+{{% home-speakers %}}
+## Conférenciers en vedette
+
+{{< button-link label="See all speakers"
+                url="./speakers"
+                icon="right" >}}
+
+{{% /home-speakers %}}
+
 <!-- ... -->
 
 {{% home-location
@@ -74,7 +86,7 @@ Le DevFest, ou 'Developers Festival', est une conférence technique destinée au
     latitude="48.3918316"
     longitude="-4.4883138" %}}
 
-## The venue
+## Le lieu
 
 ### Faculté de Lettres et Sciences Humaines
 

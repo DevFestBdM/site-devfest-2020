@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/ludovic_champenois/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/tugdual_grall.md/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/aurelien_hebert/</loc>
   </url>
   
@@ -52,6 +60,20 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/samuel_liard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/speakers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/speakers/"
+                />
   </url>
   
   <url>

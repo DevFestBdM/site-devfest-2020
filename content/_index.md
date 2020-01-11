@@ -63,6 +63,18 @@ It is aimed at students, professionals or simply curious technophiles.
 </ul>
 {{% /home-tickets %}}
 
+
+<!-- ... -->
+
+{{% home-speakers %}}
+## Featured Speakers
+
+{{< button-link label="See all speakers"
+                url="./speakers"
+                icon="right" >}}
+
+{{% /home-speakers %}}
+
 <!-- ... -->
 
 {{% home-location
