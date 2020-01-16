@@ -19,9 +19,9 @@ menu:
 
 <!-- <a class="btn primary btn-lg" style="margin-top: 1em;" href="https://drive.google.com/open?id=1Uo1V4v3SHjl2q27SNkOyHkcuagKJmTU4" target="_blank">Devenez Partenaire 🇫🇷</a> -->
 
-{{< button-link label="Proposer une présentation"
-                url="https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD"
-                icon="cfp" >}}
+{{< button-link label="Procurez-vous votre billet"
+                url="https://www.billetweb.fr/devfest-bdm-2020"
+                icon="ticket" >}}
 
 {{% /jumbo %}}
 
