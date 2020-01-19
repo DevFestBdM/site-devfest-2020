@@ -17,9 +17,9 @@ menu:
 ### Faculté de Lettres et Sciences Humaines
 ### Brest, Brittany
 
-{{< button-link label="Submit a presentation"
-                url="https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD"
-                icon="cfp" >}}
+{{< button-link label="Get a ticket"
+                url="https://www.billetweb.fr/devfest-bdm-2020"
+                icon="ticket" >}}
 
 {{% /jumbo %}}
 
