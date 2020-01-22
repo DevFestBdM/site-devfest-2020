@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - guillaume_laforge
+format: conference
 draft: false
 tags:
 ---

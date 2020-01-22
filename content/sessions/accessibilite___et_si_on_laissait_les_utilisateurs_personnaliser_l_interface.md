@@ -6,6 +6,7 @@ level: intermediate
 speakers:
   - marie_guillaumet
   - audrey_maniez
+format: 
 draft: false
 tags:
 ---

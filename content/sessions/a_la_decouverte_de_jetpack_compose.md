@@ -5,6 +5,7 @@ language: Français
 level: intermediate
 speakers:
   - gerard_paligot
+format: conference
 draft: false
 tags:
 ---

@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - edouard_marquez
+format: lightning
 draft: false
 tags:
 ---

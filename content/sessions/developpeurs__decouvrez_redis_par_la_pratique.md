@@ -5,6 +5,7 @@ language: France
 level: beginner
 speakers:
   - tugdual_grall
+format: lab
 draft: false
 tags:
 ---

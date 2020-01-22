@@ -6,6 +6,7 @@ level: beginner
 speakers:
   - marie_viley
   - vincent_vimard
+format: lightning
 draft: false
 tags:
 ---

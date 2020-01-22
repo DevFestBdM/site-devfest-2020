@@ -5,6 +5,7 @@ language: French or English
 level: beginner
 speakers:
   - julien_salvi
+format: conference
 draft: false
 tags:
 ---

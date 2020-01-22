@@ -5,6 +5,7 @@ language: undefined
 level: beginner
 speakers:
   - thibaud_courtoison
+format: conference
 draft: false
 tags:
 ---

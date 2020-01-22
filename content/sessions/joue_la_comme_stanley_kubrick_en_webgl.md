@@ -5,6 +5,7 @@ language: France
 level: beginner
 speakers:
   - monsieur_badia
+format: lightning
 draft: false
 tags:
 ---

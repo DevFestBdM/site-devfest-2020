@@ -6,6 +6,7 @@ level: beginner
 speakers:
   - aurelie_vache
   - kevin_davin
+format: conference
 draft: false
 tags:
 ---

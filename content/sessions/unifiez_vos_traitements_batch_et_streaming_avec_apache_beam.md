@@ -5,6 +5,7 @@ language: français
 level: intermediate
 speakers:
   - alexandre_touret
+format: conference
 draft: false
 tags:
 ---

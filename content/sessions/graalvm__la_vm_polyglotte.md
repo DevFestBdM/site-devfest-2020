@@ -5,6 +5,7 @@ language: undefined
 level: intermediate
 speakers:
   - pascal_gillet
+format: conference
 draft: false
 tags:
 ---

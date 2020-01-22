@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - sebastien_jardin
+format: lightning
 draft: false
 tags:
 ---

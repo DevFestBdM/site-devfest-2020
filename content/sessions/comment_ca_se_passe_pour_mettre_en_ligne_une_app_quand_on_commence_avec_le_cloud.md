@@ -5,6 +5,7 @@ language: undefined
 level: beginner
 speakers:
   - rudy_baer
+format: conference
 draft: false
 tags:
 ---

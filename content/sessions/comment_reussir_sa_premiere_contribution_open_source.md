@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - gerome_grignon
+format: lightning
 draft: false
 tags:
 ---

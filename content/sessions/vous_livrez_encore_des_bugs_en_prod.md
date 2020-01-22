@@ -5,6 +5,7 @@ language: Français
 level: beginner
 speakers:
   - jordane_grenat
+format: conference
 draft: false
 tags:
 ---

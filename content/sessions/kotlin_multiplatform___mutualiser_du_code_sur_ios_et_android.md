@@ -7,6 +7,7 @@ speakers:
   - robin_caroff
   - pierre_tibulle
   - maxime_lumeau
+format: lab
 draft: false
 tags:
 ---

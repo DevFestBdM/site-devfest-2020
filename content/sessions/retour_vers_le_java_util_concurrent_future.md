@@ -6,6 +6,7 @@ level: intermediate
 speakers:
   - maxime_odye
   - erwann_thebault
+format: conference
 draft: false
 tags:
 ---

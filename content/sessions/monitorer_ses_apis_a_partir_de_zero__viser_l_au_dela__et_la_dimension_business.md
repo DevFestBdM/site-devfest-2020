@@ -5,6 +5,7 @@ language: French
 level: intermediate
 speakers:
   - nicolas_tisserand
+format: conference
 draft: false
 tags:
 ---

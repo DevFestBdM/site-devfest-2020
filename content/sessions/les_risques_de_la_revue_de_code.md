@@ -5,6 +5,7 @@ language: undefined
 level: beginner
 speakers:
   - francois_gelineau
+format: lightning
 draft: false
 tags:
 ---

@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - francois_bouteruche
+format: conference
 draft: false
 tags:
 ---

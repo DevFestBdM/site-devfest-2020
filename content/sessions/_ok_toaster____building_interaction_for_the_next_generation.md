@@ -5,6 +5,7 @@ language: English or French
 level: beginner
 speakers:
   - jade_chabaro
+format: conference
 draft: false
 tags:
 ---

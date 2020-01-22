@@ -6,6 +6,7 @@ level: beginner
 speakers:
   - christophe_jollivet
   - jeremy_voisin
+format: conference
 draft: false
 tags:
 ---

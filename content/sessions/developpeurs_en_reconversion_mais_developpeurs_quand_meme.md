@@ -5,6 +5,7 @@ language: Français
 level: beginner
 speakers:
   - juliane_blier
+format: lightning
 draft: false
 tags:
 ---
