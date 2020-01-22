@@ -1,21 +1,21 @@
 ---
 key: pascal_gillet
 name: Pascal Gillet
+id: TldqyPK0UzgTOOdn0wO8lftSmkn1
 feature: false
 company: Stack Labs
-city: 'Toulouse, France'
-photoURL: /images/speakers/pascal_gillet.jpg
+city: Toulouse, France
+photoURL: https://lh3.googleusercontent.com/-h9DTQbenhxo/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcblo5S3buQ4lTRI7yZLtfSd4MGzcg/mo/photo.jpg
 socials:
   - icon: twitter
-    link: 'https://twitter.com/psclgllt'
+    link: https://twitter.com/psclgllt
     name: psclgllt
   - icon: github
-    link: 'https://github.com/pgillet'
-    name: pgillet
+    link: https://github.com/https://github.com/pgillet
+    name: https://github.com/pgillet
 ---
+Apprenti perpétuel à la poursuite de nouvelles connaissances digitales (c'est souvent fatiguant).
 
-Google Developer Expert on Google Cloud, Gitlab Hero, I am above all passionate about tech, languages, infrastructure, and automation. Java, Kotlin, TypeScript are my day-to-day languages. I deploy all of those on the Google Kubernetes Engine with the GitLab's Continuous Integration 🚀.
+Développeur Java / JEE pendant de nombreuses années, j'ai cédé à la mode du Big Data en 2014, et j'interviens maintenant sur des sujets Cloud: j'aide les entreprises à migrer leurs applications vers l'un ou l'autre fournisseur et à ne plus se soucier de leur infrastructure.
 
-Addict of agility and DevOps, some of my missions were to help teams to follow those philosophies. From code quality analysis to unit or end-to-end tests setup all the way to continuous deployment and operation, I try to follow a project from birth to production.
-
-My mantra is to go to production as soon as possible! During my personal and professional time in Stack Labs, I contribute to open source projects (Spring boot, Spring Security, Angular, Protractor, Jest schematics for Angular, NgxOpenlayers, Istio...). I'm currently CTO (and co-founder) of Stack Labs, a company specialized in architecture and development of cloud solutions. I supervise about twenty passionate and talented developers in their missions and during our internal events.
+J'ai rejoint les rangs de Stack Labs en 2018, une petite structure toulousaine composée exclusivement de passionnés. C'est dans ce cadre que j'essaie d'élargir mes horizons en donnant des conférences pour essayer de distiller un peu de mon savoir-faire et de mes passions. 

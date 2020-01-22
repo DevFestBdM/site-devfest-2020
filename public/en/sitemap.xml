@@ -3,6 +3,14 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/alexandre_touret/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/audrey_maniez/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/aurelie_vache/</loc>
   </url>
   
@@ -11,11 +19,27 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/cecile_freyd_foucault/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/christophe_jollivet/</loc>
   </url>
   
   <url>
-    <loc>https://devfest.duboutdumonde.bzh/speakers/elaine_diasbatista/</loc>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/edouard_marquez/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/elaine_dias_batista/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/eric_briand/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/erwann_thebault/</loc>
   </url>
   
   <url>
@@ -27,11 +51,51 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/francois_teychene/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/gerard_paligot/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/gerome_grignon/</loc>
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/guillaume_laforge/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/jade_chabaro/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/jean_michael_legait/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/jeremy_hennart/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/jeremy_voisin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/jordane_grenat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/juliane_blier/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/julien_lengrand_lambert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/julien_salvi/</loc>
   </url>
   
   <url>
@@ -43,7 +107,39 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/marie_guillaumet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/marie_viley/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/maxime_lumeau/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/maxime_odye/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/monsieur_badia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/nicolas_comet/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/nicolas_tisserand/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/noel_mace/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/olivier_leplus/</loc>
   </url>
   
   <url>
@@ -55,11 +151,75 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/pierre_tibulle/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/pierre_yves_aillet/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/robin_caroff/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/rudy_baer/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/sebastien_besnier/</loc>
   </url>
   
   <url>
-    <loc>https://devfest.duboutdumonde.bzh/speakers/tugdual_grall.md/</loc>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/sebastien_jardin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/sebastien_oddo/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/thibaud_courtoison/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/tugdual_grall/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/vincent_vimard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/vivien_maleze/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/youri_bonnaffe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_jetpack_compose/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_la_realite_augmentee_avec_arcore/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/apprenez_a_securiser_votre_cluster_kubernetes_par_la_pratique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/are_you_interesting_to_manage_your_passwords_like_your_code___come_and_discover_how/</loc>
   </url>
   
   <url>
@@ -81,6 +241,66 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/comment_reussir_sa_premiere_contribution_open_source/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/comment_s_attacher_au_databinding/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/compiler_driven_onboarding___open_source_in_elm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/comprendre_la_langue_de_bois_pour_survivre_en_entreprise/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/developpeurs_en_reconversion_mais_developpeurs_quand_meme/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/developpeurs__decouvrez_redis_par_la_pratique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/elasticsearch__la_colonne_vertebrale_de_mon_projet_data/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/et_si_le_design_etait_en_fait_l_affaire_de_tous/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/faire_du_hard_en_soft/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/functional_programming___l_architecture_du_choix/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/graalvm__la_vm_polyglotte/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/</loc>
     <xhtml:link
                 rel="alternate"
@@ -99,7 +319,47 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/implementer_un_webhook__pas_si_simple/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/joue_la_comme_stanley_kubrick_en_webgl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/l_oss_en_entreprise__causons_peu__koson_bien/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/_la_jungle_des_licences_open_source/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/la_telemetrie_au_secour_de_l_agilite/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/les_risques_de_la_revue_de_code/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/marc_poppleton/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/_ok_toaster____building_interaction_for_the_next_generation/</loc>
   </url>
   
   <url>
@@ -111,21 +371,23 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/retour_vers_le_java_util_concurrent_future/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/samuel_liard/</loc>
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://devfest.duboutdumonde.bzh/fr/speakers/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://devfest.duboutdumonde.bzh/speakers/"
-                />
   </url>
   
   <url>
@@ -158,6 +420,38 @@
                 hreflang="en"
                 href="https://devfest.duboutdumonde.bzh/team/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/the_flutter_journey_to_a_production_app/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/the_sound_of_silence__des_apis_web_pour_l_accessibilite_des_deficiences_visuelles_et_auditives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/the_web_capabilities_project__better__smoother__sexier/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/the_web_is_on____f_i_r_e__________conference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/unifiez_vos_traitements_batch_et_streaming_avec_apache_beam/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</loc>
   </url>
   
 </urlset>
