@@ -148,17 +148,6 @@ Autant de questions que vous vous êtes sans doute déjà posées.</description>
     </item>
     
     <item>
-      <title>Développeurs- découvrez Redis par la pratique!</title>
-      <link>https://devfest.duboutdumonde.bzh/sessions/developpeurs__decouvrez_redis_par_la_pratique/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/sessions/developpeurs__decouvrez_redis_par_la_pratique/</guid>
-      <description>Venez découvrir comment utiliser Redis et ses structures de données; mais aussi les Modules Redis qui simplifient le développement d&amp;rsquo;applications grace au multi-modele.
-Les sujets abordés lors de cet atelier sont:
- Redis Data Structure: Introduction Transaction &amp;amp; Pipeline Streaming &amp;amp; Pub/Sub avec Redis Redis Modules:  RediSearch RedisTimeSeries RedisJSON RedisGraphs  Déploiement et Management de Redis/Redis Enterprise  Cet atelier s&amp;rsquo;appuie sur des exemples en Java, Node.js/Javascript et Python, selon vos envies et humeur.</description>
-    </item>
-    
-    <item>
       <title>ElasticSearch, la colonne vertébrale de mon projet data</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/elasticsearch__la_colonne_vertebrale_de_mon_projet_data/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -344,6 +333,17 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
       <guid>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</guid>
       <description>Playing videos might be easy at first but this can get very tricky when you have to support multiple video/audio formats or offline medias. But no worries ExoPlayer2 is there for you!
 This session will cover the basics of the ExoPlayer such as how to play a video thanks to the library and its core features. We&amp;rsquo;ll go through its architecture, how to set it up and what video format ExoPlayer supports from classic MP4 to adaptive streams like HLS or DASH with protected content.</description>
+    </item>
+    
+    <item>
+      <title>Redis du Clé/Valeur au Multi-Modèle</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</guid>
+      <description>Vous connaissez surement Redis l&amp;rsquo;une des bases de données NoSQL les plus populaires chez les développeurs.
+Vous l&amp;rsquo;utilisez peut être déjà, mais surement de façon simple: un cache clé/valeur.
+Cette présentation qui s&amp;rsquo;appuie sur de nombreuses démonstrations va vous permettre de découvrir la puissance de Redis et son système d&amp;rsquo;extensions (les Modules Redis). Redis vous permet maintenant de gérer plusieurs modèles de données: Clé/Valeur, Document/JSON, Time Series, Streaming Log, Search&amp;hellip; pour résumé une base de donnée polyglotte, comme vos applications!</description>
     </item>
     
     <item>
