@@ -5,6 +5,7 @@ language: Francais
 level: intermediate
 speakers:
   - jeremy_hennart
+format: conference
 draft: false
 tags:
 ---

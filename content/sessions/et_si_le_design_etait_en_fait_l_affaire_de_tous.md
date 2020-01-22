@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - cecile_freyd_foucault
+format: conference
 draft: false
 tags:
 ---

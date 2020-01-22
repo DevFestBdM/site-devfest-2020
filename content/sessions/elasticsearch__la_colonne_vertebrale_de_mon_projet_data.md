@@ -6,6 +6,7 @@ level: beginner
 speakers:
   - sebastien_oddo
   - vivien_maleze
+format: conference
 draft: false
 tags:
 ---

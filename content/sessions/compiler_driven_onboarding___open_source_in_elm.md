@@ -5,6 +5,7 @@ language: French
 level: intermediate
 speakers:
   - sebastien_besnier
+format: conference
 draft: false
 tags:
 ---

@@ -5,6 +5,7 @@ language: English or French
 level: beginner
 speakers:
   - elaine_dias_batista
+format: conference
 draft: false
 tags:
 ---

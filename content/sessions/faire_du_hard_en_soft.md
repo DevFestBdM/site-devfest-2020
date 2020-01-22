@@ -5,6 +5,7 @@ language: Français
 level: beginner
 speakers:
   - pascal_cotret
+format: lightning
 draft: false
 tags:
 ---

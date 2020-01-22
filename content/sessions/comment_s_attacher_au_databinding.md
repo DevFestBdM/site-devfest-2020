@@ -5,6 +5,7 @@ language: Français
 level: intermediate
 speakers:
   - caroline_mouden
+format: lightning
 draft: false
 tags:
 ---

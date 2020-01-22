@@ -5,6 +5,7 @@ language: français or english
 level: intermediate
 speakers:
   - noel_mace
+format: conference
 draft: false
 tags:
 ---

@@ -6,6 +6,7 @@ level: advanced
 speakers:
   - eric_briand
   - pierre_yves_aillet
+format: lab
 draft: false
 tags:
 ---

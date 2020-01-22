@@ -5,6 +5,7 @@ language: FR
 level: beginner
 speakers:
   - nicolas_comet
+format: lightning
 draft: false
 tags:
 ---

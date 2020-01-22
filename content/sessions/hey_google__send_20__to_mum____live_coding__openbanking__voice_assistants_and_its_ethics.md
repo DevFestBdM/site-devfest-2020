@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - julien_lengrand_lambert
+format: conference
 draft: false
 tags:
 ---

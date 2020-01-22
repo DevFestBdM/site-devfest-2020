@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - jean_michael_legait
+format: lightning
 draft: false
 tags:
 ---

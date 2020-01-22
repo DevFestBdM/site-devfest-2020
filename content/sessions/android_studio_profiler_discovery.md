@@ -5,6 +5,7 @@ language: Français
 level: beginner
 speakers:
   - robin_caroff
+format: lightning
 draft: false
 tags:
 ---

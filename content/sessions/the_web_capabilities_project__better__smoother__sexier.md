@@ -5,6 +5,7 @@ language: French
 level: intermediate
 speakers:
   - olivier_leplus
+format: conference
 draft: false
 tags:
 ---

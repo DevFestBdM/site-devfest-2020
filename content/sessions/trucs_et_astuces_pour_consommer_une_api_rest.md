@@ -5,6 +5,7 @@ language: French
 level: beginner
 speakers:
   - youri_bonnaffe
+format: conference
 draft: false
 tags:
 ---

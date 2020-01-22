@@ -5,6 +5,7 @@ language: undefined
 level: beginner
 speakers:
   - francois_teychene
+format: conference
 draft: false
 tags:
 ---
