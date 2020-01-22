@@ -1,5 +1,5 @@
 ---
-key: youri_bonnaff_
+key: youri_bonnaffe
 name: Youri Bonnaffé
 id: PV4LOlB4jLRPDCCxXT6BBbsxNA93
 feature: false

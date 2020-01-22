@@ -1,5 +1,5 @@
 ---
-key: s_bastien_besnier
+key: sebastien_besnier
 name: Sébastien Besnier
 id: Tv04ILv7SGQSR0Prkh53nCcdnS83
 feature: false

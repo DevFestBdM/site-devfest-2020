@@ -1,5 +1,5 @@
 ---
-key: fran_ois_bouteruche
+key: francois_bouteruche
 name: François Bouteruche
 id: GW9ggSbmZYM7tkxxt5wRXXLp5733
 feature: false

@@ -1,5 +1,5 @@
 ---
-key: fran_ois_gelineau
+key: francois_gelineau
 name: François Gelineau
 id: E2NGG4PEyqgRlGjFHuiNcCONOG03
 feature: false

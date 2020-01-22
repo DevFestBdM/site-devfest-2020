@@ -1,5 +1,5 @@
 ---
-key: fran_ois_teychene
+key: francois_teychene
 name: François Teychene
 id: EZdFes7RoSTGQJO5uOBCqSeyGvv2
 feature: false

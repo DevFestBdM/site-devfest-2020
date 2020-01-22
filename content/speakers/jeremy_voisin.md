@@ -1,5 +1,5 @@
 ---
-key: j_r_my_voisin
+key: jeremy_voisin
 name: Jérémy Voisin
 id: umDrfx7WeEQRicrwBAbLUu6B5By1
 feature: false

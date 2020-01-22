@@ -1,5 +1,5 @@
 ---
-key: g_r_me_grignon
+key: gerome_grignon
 name: Gérôme Grignon
 id: I8807VKR6SgIWBpaK6ywump2Rxj1
 feature: false

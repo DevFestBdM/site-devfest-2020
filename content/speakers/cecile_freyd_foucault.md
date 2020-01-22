@@ -1,5 +1,5 @@
 ---
-key: c_cile_freyd_foucault
+key: cecile_freyd_foucault
 name: Cécile Freyd-Foucault
 id: mnKCXR65CudbqcmnzEonfNGs1Jk2
 feature: false

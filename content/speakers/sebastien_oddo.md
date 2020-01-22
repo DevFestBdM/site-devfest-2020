@@ -1,5 +1,5 @@
 ---
-key: s_bastien_oddo
+key: sebastien_oddo
 name: Sébastien Oddo
 id: cPUYVxcfGHhnT5ntayA5sdO3IsR2
 feature: false
