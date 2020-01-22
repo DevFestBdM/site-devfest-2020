@@ -384,10 +384,30 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/sessions/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/sessions/"
+                />
   </url>
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/speakers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/speakers/"
+                />
   </url>
   
   <url>
