@@ -269,10 +269,6 @@
   </url>
   
   <url>
-    <loc>https://devfest.duboutdumonde.bzh/sessions/developpeurs__decouvrez_redis_par_la_pratique/</loc>
-  </url>
-  
-  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/elasticsearch__la_colonne_vertebrale_de_mon_projet_data/</loc>
   </url>
   
@@ -372,6 +368,10 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</loc>
   </url>
   
   <url>
