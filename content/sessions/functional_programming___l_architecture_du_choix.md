@@ -14,6 +14,7 @@ Cette phrase, je l’ai entendue je ne sais combien de fois. Mais pourquoi autan
 
 Depuis quelques années émerge de nombreux talks d’introduction à la programmation fonctionnelle mais la réalité reste qu’il s’agit d’une pratique marginale sur l’ensemble des développements.  
 Les raisons évoquées sont souvent les mêmes, tels des stéréotypes :
+
  - le temps d’apprentissage
  - Le jargon qui fait peur
  - Les concepts mathématiques

@@ -159,6 +159,15 @@ Qu&amp;rsquo;il s&amp;rsquo;agisse de la récupération d&amp;rsquo;une simple e
     </item>
     
     <item>
+      <title>Eliminez rapidement des bottlenecks de performance avec QuickPerf</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf/</guid>
+      <description>Supposons que vous développiez une application en Java : comment détecter rapidement la présence d&amp;rsquo;importants goulots d&amp;rsquo;étranglement de performance (bottlenecks) ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Comment se rendre compte rapidement que votre application va consommer énormément de mémoire ? Nous allons montrer comment la librairie de test QuickPerf peut vous aider à répondre à ces questions.</description>
+    </item>
+    
+    <item>
       <title>Et si le design était en fait l&#39;affaire de tous ?</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/et_si_le_design_etait_en_fait_l_affaire_de_tous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -197,7 +206,8 @@ Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. 
       <description>&amp;ldquo;La programmation fonctionnelle, c&amp;rsquo;est trop compliqué !&amp;rdquo;
 Cette phrase, je l’ai entendue je ne sais combien de fois. Mais pourquoi autant de réticence ?
 Depuis quelques années émerge de nombreux talks d’introduction à la programmation fonctionnelle mais la réalité reste qu’il s’agit d’une pratique marginale sur l’ensemble des développements.
-Les raisons évoquées sont souvent les mêmes, tels des stéréotypes : - le temps d’apprentissage - Le jargon qui fait peur - Les concepts mathématiques - &amp;hellip;</description>
+Les raisons évoquées sont souvent les mêmes, tels des stéréotypes :
+ le temps d’apprentissage Le jargon qui fait peur Les concepts mathématiques &amp;hellip;  Et si le problème n’était pas dans la manière dont on explique la programmation fonctionnelle mais plutôt comment cette pratique est introduite dans le quotidien d&amp;rsquo;une équipe ?</description>
     </item>
     
     <item>
