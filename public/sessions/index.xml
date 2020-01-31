@@ -207,7 +207,7 @@ Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. 
 Cette phrase, je l’ai entendue je ne sais combien de fois. Mais pourquoi autant de réticence ?
 Depuis quelques années émerge de nombreux talks d’introduction à la programmation fonctionnelle mais la réalité reste qu’il s’agit d’une pratique marginale sur l’ensemble des développements.
 Les raisons évoquées sont souvent les mêmes, tels des stéréotypes :
- le temps d’apprentissage Le jargon qui fait peur Les concepts mathématiques &amp;hellip;  Et si le problème n’était pas dans la manière dont on explique la programmation fonctionnelle mais plutôt comment cette pratique est introduite dans le quotidien d&amp;rsquo;une équipe ?</description>
+ Le temps d’apprentissage Le jargon qui fait peur Les concepts mathématiques &amp;hellip;  Et si le problème n’était pas dans la manière dont on explique la programmation fonctionnelle mais plutôt comment cette pratique est introduite dans le quotidien d&amp;rsquo;une équipe ?</description>
     </item>
     
     <item>
@@ -343,6 +343,16 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
       <guid>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</guid>
       <description>Playing videos might be easy at first but this can get very tricky when you have to support multiple video/audio formats or offline medias. But no worries ExoPlayer2 is there for you!
 This session will cover the basics of the ExoPlayer such as how to play a video thanks to the library and its core features. We&amp;rsquo;ll go through its architecture, how to set it up and what video format ExoPlayer supports from classic MP4 to adaptive streams like HLS or DASH with protected content.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi l&#39;avenir du numérique est responsable ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</guid>
+      <description>Les services numériques doivent nous aider. Ils doivent nous permettre de comprendre, d’appréhender et de résoudre les problématiques planétaire que nous avons et qui se multiplient. Malheureusement, nous n&amp;rsquo;utilisons pas la puissance de cette technologie au mieux ! Le numérique devient de plus en plus gras. Les obésiciels sont devenus monnaie courante et nous forcent; pour continuer de les utiliser, à changer de téléphone, de PC&amp;hellip;
+Nos services numérique sont (très) loin d&amp;rsquo;être éco-conçus au low-tech : ils sont de plus en plus énergivores, consomment de plus en plus de ressources, créent de + en + de disparités, de problèmes éthiques de problèmes d’accessibilités &amp;hellip;</description>
     </item>
     
     <item>

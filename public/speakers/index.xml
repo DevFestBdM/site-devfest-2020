@@ -35,7 +35,7 @@ Blog: https://blog.touret.info</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/aurelie_vache/</guid>
-      <description>Aurélie est Cloud developer (&amp;amp; DevOps) chez Continental à Toulouse, en France. Elle travaille comme développeuse depuis plus de 13 ans. Ancienne développeuse Java / JEE, puis développeuse Web, Full-Stack et Lead, elle est maintenant Cloud developer et DevOps sur des projets de véhicules connectés et autonomes. En tant que l’une des leaders de Duchesse France, une association qui promeut les femmes développeurs et les femmes travaillant dans l&amp;rsquo;informatique, elle est fortement impliquée dans leur initiative de coaching #AdoptADuchess, qui aide les développeurs débutants et en reconversion.</description>
+      <description>Aurélie est Cloud developer (&amp;amp; DevOps) chez Continental à Toulouse, en France. Elle travaille comme développeuse depuis plus de 14 ans. Ancienne développeuse Java / JEE, puis développeuse Web, Full-Stack et Lead, elle est maintenant Cloud developer et DevOps sur des projets de véhicules connectés et autonomes. En tant que l’une des leaders de Duchess France, une association qui promeut les femmes développeurs et les femmes travaillant dans l&amp;rsquo;informatique, elle est fortement impliquée dans leur initiative de coaching #AdoptADuchess, qui aide les développeurs débutants et en reconversion.</description>
     </item>
     
     <item>
@@ -109,8 +109,8 @@ Geek, il s&amp;rsquo;est interessé a l&amp;rsquo;évolutions des object connect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/francois_bouteruche/</guid>
-      <description>I&amp;rsquo;m currently Delevoper Relations Manager at Microsoft France. I am a tech enthusiast with a strong background around .NET development and DevOps phylosophy and practices.
-I have a PhD in Computer Science. I worked several years around handwriting recognition and pen-based interfaces so I&amp;rsquo;m very familiar with all the real stuff behind the buzz words AI and Machine Learning :) I led the R&amp;amp;D team at Evodia, the ancestor of Script and Go</description>
+      <description>I&amp;rsquo;m currently Partner Solution Architect at Amazon Web Services. I am a tech enthusiast with a strong background around .NET development and DevOps philosophy and practices.
+I have a PhD in Computer Science. I worked several years around handwriting recognition and pen-based interfaces so I&amp;rsquo;m very familiar with all the real stuff behind the buzz words AI and Machine Learning :) I led the R&amp;amp;D team at Evodia, the ancestor of Script and Go After the fall of Evodia during the 2008-2010 financial crisis, I joined Orange Applications for Business, a subsidiary of Orange, where I focused on Application Lifecycle Management, Agile methodologies and then DevOps practices.</description>
     </item>
     
     <item>
@@ -171,6 +171,15 @@ Développeur couteau suisse pouvant intervenir du Javascript à la table de rout
     
     <item>
       <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/jean_bisutti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/jean_bisutti/</guid>
+      <description>Jean est consultant pour la société Zenika. Il développe principalement en Java et intervient sur des problématiques de performance. Adepte des pratiques de développement issues de la mouvance Software Craftsmanship (TDD, pair programming, BDD, clean code, &amp;hellip;), il apprécie en faire la promotion. Jean développe aussi QuickPerf, une libraire de test Java pour évaluer rapidement des propriétés de performance.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/jean_michael_legait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -186,7 +195,7 @@ Organisateur de la conférence Riviera DEV et du meetup JSSophia sur Sophia-Anti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/jeremy_hennart/</guid>
-      <description></description>
+      <description>Program Manager, Scrum Master, Facilitateur, ou encore chef de projet. J&amp;rsquo;accompagne des équipes techniques dans mon quotidien. Je m&amp;rsquo;applique à l&amp;rsquo;orchestration des projets avec l&amp;rsquo;idéologie Agile. Les challenges, l&amp;rsquo;effort et l&amp;rsquo;esprit d&amp;rsquo;équipe m&amp;rsquo;accompagnent dans mon quotidien. #Scrum, #ScrumMaster #Kaizen, #Kanban #Agile #BonSensPaysan! #Kintsugi</description>
     </item>
     
     <item>
@@ -393,6 +402,15 @@ Former Co-Founder and Director of the mobile application agency Toki (www.toki.a
 Mobile developer since 2011, I am also Co-Founder and Organizer of the GDG Nantes Android (https://www.meetup.com/fr-FR/gdg_nantes_android/).
 Technology enthusiast, highly convinced that technology and mobile devices can improve productivity for small as well as for big companies.
 Links  Twitter Profile Linkedin Profile Talks (Speaker Deck)  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/romuald_priol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/romuald_priol/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -4,8 +4,8 @@ title: Retour vers le java.util.concurrent.Future...
 language: French
 level: intermediate
 speakers:
-  - maxime_odye
   - erwann_thebault
+  - maxime_odye
 format: conference
 draft: false
 tags:

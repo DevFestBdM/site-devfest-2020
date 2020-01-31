@@ -4,8 +4,8 @@ title: A la découverte de la réalité augmentée avec ARCore
 language: France
 level: beginner
 speakers:
-  - jeremy_voisin
   - christophe_jollivet
+  - jeremy_voisin
 format: conference
 draft: false
 tags:

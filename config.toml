@@ -30,6 +30,14 @@ googleAnalytics = "UA-XXXXXXXX-X"
     safariPinnedTab = "/safari-pinned-tab.svg"
     themeColor = "#673ab7"
 
+[params.partnerCategories]
+        platinium = "Kouign Amann"
+        gold = "Far"
+        silver = "Crepe"
+        startup = "Palet"
+        soutien = "Partners"
+        communautes = "Community"
+
 [params.logos]
     jumbo = "/images/logos/devfest_color_text.png"
     header = "/images/logos/devfest_color_text.png"
@@ -48,6 +56,14 @@ googleAnalytics = "UA-XXXXXXXX-X"
 [languages.fr.params]
     description = "Le DevFest, ou 'Developers Festival', est une conférence technique destinée aux développeurs et développeuses. Elle s'adresse aussi bien aux étudiant•e•s, aux professionnels ou tout simplement aux curieux et curieuses technophiles."
 
+[languages.fr.params.partnerCategories]
+        platinium = "Kouign Amann"
+        gold = "Far"
+        silver = "Crêpe"
+        startup = "Palet"
+        soutien = "Partnaires"
+        communautes = "Communautés"
+
 [taxonomies]
   tag = "tags"
 
@@ -57,11 +73,6 @@ googleAnalytics = "UA-XXXXXXXX-X"
     name = "CFP"
     url = "https://conference-hall.io/public/event/dKQ0YcKw6aqEl37htjvD"
     weight = 200
-    external = true
-[[menu.main]]    
-    name = "Sponsorship"
-    url = "/sponsorship/Dossier-sponsoring-2020.pdf"
-    weight = 300
     external = true
 
 #...    

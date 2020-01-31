@@ -59,6 +59,20 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/fr/partners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/partners/"
+                />
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
