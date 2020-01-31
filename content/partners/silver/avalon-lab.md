@@ -4,7 +4,7 @@ title: Avalon Lab
 category: silver
 order: 20
 logo: /images/partners/logo-avalon-lab.svg
-website: 'http://www.avalon-lab.fr'
+website: 'https://www.avalon-lab.fr'
 lang: fr
 why: What else ?
 ---
