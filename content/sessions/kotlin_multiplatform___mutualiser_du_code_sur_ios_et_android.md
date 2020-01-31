@@ -4,9 +4,9 @@ title: Kotlin Multiplatform - mutualiser du code sur iOS et Android
 language: French (but can be in english)
 level: intermediate
 speakers:
-  - robin_caroff
   - pierre_tibulle
   - maxime_lumeau
+  - robin_caroff
 format: lab
 draft: false
 tags:

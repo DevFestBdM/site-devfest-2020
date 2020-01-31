@@ -71,6 +71,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/jean_bisutti/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/jean_michael_legait/</loc>
   </url>
   
@@ -163,6 +167,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/romuald_priol/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/rudy_baer/</loc>
   </url>
   
@@ -211,6 +219,14 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/silver/acommeassure/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/startup/asi/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</loc>
   </url>
   
@@ -219,11 +235,39 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/silver/apside/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/are_you_interesting_to_manage_your_passwords_like_your_code___come_and_discover_how/</loc>
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/gold/arkea/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/silver/asi/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/aurelien_hebert/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/silver/avalon-lab/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/soutien/brest/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/communautes/codedarmor/</loc>
   </url>
   
   <url>
@@ -285,11 +329,27 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/communautes/finistdevs/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</loc>
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/soutien/ftbp/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/functional_programming___l_architecture_du_choix/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/silver/geomod/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/platinium/google/</loc>
   </url>
   
   <url>
@@ -316,6 +376,10 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/horacio_gonzalez/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/silver/imascap/</loc>
   </url>
   
   <url>
@@ -347,6 +411,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/soutien/ltc/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/les_risques_de_la_revue_de_code/</loc>
   </url>
   
@@ -355,11 +423,33 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/gold/microsoft/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</loc>
   </url>
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/_ok_toaster____building_interaction_for_the_next_generation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/gold/orange/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/partners/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/partners/"
+                />
   </url>
   
   <url>
@@ -372,6 +462,10 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</loc>
   </url>
   
   <url>
@@ -475,7 +569,15 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/soutien/ubo/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/gold/zenika/</loc>
   </url>
   
 </urlset>

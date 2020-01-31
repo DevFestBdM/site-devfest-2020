@@ -35,7 +35,7 @@ Blog: https://blog.touret.info</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/aurelie_vache/</guid>
-      <description>Aurélie est Cloud developer (&amp;amp; DevOps) chez Continental à Toulouse, en France. Elle travaille comme développeuse depuis plus de 13 ans. Ancienne développeuse Java / JEE, puis développeuse Web, Full-Stack et Lead, elle est maintenant Cloud developer et DevOps sur des projets de véhicules connectés et autonomes. En tant que l’une des leaders de Duchesse France, une association qui promeut les femmes développeurs et les femmes travaillant dans l&amp;rsquo;informatique, elle est fortement impliquée dans leur initiative de coaching #AdoptADuchess, qui aide les développeurs débutants et en reconversion.</description>
+      <description>Aurélie est Cloud developer (&amp;amp; DevOps) chez Continental à Toulouse, en France. Elle travaille comme développeuse depuis plus de 14 ans. Ancienne développeuse Java / JEE, puis développeuse Web, Full-Stack et Lead, elle est maintenant Cloud developer et DevOps sur des projets de véhicules connectés et autonomes. En tant que l’une des leaders de Duchess France, une association qui promeut les femmes développeurs et les femmes travaillant dans l&amp;rsquo;informatique, elle est fortement impliquée dans leur initiative de coaching #AdoptADuchess, qui aide les développeurs débutants et en reconversion.</description>
     </item>
     
     <item>
@@ -109,8 +109,8 @@ Geek, il s&amp;rsquo;est interessé a l&amp;rsquo;évolutions des object connect
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/francois_bouteruche/</guid>
-      <description>I&amp;rsquo;m currently Delevoper Relations Manager at Microsoft France. I am a tech enthusiast with a strong background around .NET development and DevOps phylosophy and practices.
-I have a PhD in Computer Science. I worked several years around handwriting recognition and pen-based interfaces so I&amp;rsquo;m very familiar with all the real stuff behind the buzz words AI and Machine Learning :) I led the R&amp;amp;D team at Evodia, the ancestor of Script and Go</description>
+      <description>I&amp;rsquo;m currently Partner Solution Architect at Amazon Web Services. I am a tech enthusiast with a strong background around .NET development and DevOps philosophy and practices.
+I have a PhD in Computer Science. I worked several years around handwriting recognition and pen-based interfaces so I&amp;rsquo;m very familiar with all the real stuff behind the buzz words AI and Machine Learning :) I led the R&amp;amp;D team at Evodia, the ancestor of Script and Go After the fall of Evodia during the 2008-2010 financial crisis, I joined Orange Applications for Business, a subsidiary of Orange, where I focused on Application Lifecycle Management, Agile methodologies and then DevOps practices.</description>
     </item>
     
     <item>
@@ -171,6 +171,15 @@ Développeur couteau suisse pouvant intervenir du Javascript à la table de rout
     
     <item>
       <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/jean_bisutti/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/jean_bisutti/</guid>
+      <description>Jean est consultant pour la société Zenika. Il développe principalement en Java et intervient sur des problématiques de performance. Adepte des pratiques de développement issues de la mouvance Software Craftsmanship (TDD, pair programming, BDD, clean code, &amp;hellip;), il apprécie en faire la promotion. Jean développe aussi QuickPerf, une libraire de test Java pour évaluer rapidement des propriétés de performance.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/jean_michael_legait/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -186,7 +195,7 @@ Organisateur de la conférence Riviera DEV et du meetup JSSophia sur Sophia-Anti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/jeremy_hennart/</guid>
-      <description></description>
+      <description>Program Manager, Scrum Master, Facilitateur, ou encore chef de projet. J&amp;rsquo;accompagne des équipes techniques dans mon quotidien. Je m&amp;rsquo;applique à l&amp;rsquo;orchestration des projets avec l&amp;rsquo;idéologie Agile. Les challenges, l&amp;rsquo;effort et l&amp;rsquo;esprit d&amp;rsquo;équipe m&amp;rsquo;accompagnent dans mon quotidien. #Scrum, #ScrumMaster #Kaizen, #Kanban #Agile #BonSensPaysan! #Kintsugi</description>
     </item>
     
     <item>
@@ -397,6 +406,15 @@ Links  Twitter Profile Linkedin Profile Talks (Speaker Deck)  </description>
     
     <item>
       <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/romuald_priol/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/romuald_priol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/rudy_baer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -518,6 +536,24 @@ Mais l’absence de support homogène entre les navigateurs et le manque de pers
     </item>
     
     <item>
+      <title>AcommeAssure.com</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/acommeassure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/acommeassure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Altran</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/startup/asi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/startup/asi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Android Studio Profiler Discovery</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -541,6 +577,15 @@ Prérequis : avoir son ordinateur, être à l’aise avec le shell et connaître
     </item>
     
     <item>
+      <title>APSIDE</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/apside/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/apside/</guid>
+      <description>APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l&amp;rsquo;écosystème IT sur leurs projets innovants. Tous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ &amp;hellip; Nous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d&amp;rsquo;architecture, produits complets, sujets porteurs et utiles&amp;hellip; C&amp;rsquo;est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.</description>
+    </item>
+    
+    <item>
       <title>Are you interesting to manage your passwords like your code ? Come and discover how !</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/are_you_interesting_to_manage_your_passwords_like_your_code___come_and_discover_how/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -553,12 +598,66 @@ Mais alors pourquoi pas gérer nos mots de passe comme du code ?</description>
     </item>
     
     <item>
+      <title>Arkéa</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/arkea/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/arkea/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASI</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/asi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/asi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Aurélien Hébert</title>
       <link>https://devfest.duboutdumonde.bzh/team/core/aurelien_hebert/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/team/core/aurelien_hebert/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Avalon Lab</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/avalon-lab/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/avalon-lab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brest Métropole</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/soutien/brest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/soutien/brest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CESI</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code d&#39;Armor</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/communautes/codedarmor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/communautes/codedarmor/</guid>
+      <description>Find Code d&amp;rsquo;Armor on https://codedarmor.fr/ and https://www.meetup.com/fr-FR/GDG-Code-dArmor/</description>
     </item>
     
     <item>
@@ -684,6 +783,15 @@ Cependant, il existe des méthodes qui permettent de générer un système maté
     </item>
     
     <item>
+      <title>FinistDevs</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/communautes/finistdevs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/communautes/finistdevs/</guid>
+      <description>Find FinistDevs on https://www.finistdevs.org/ and https://www.meetup.com/FinistDevs/</description>
+    </item>
+    
+    <item>
       <title>Flutter Web - que peut-on faire aujourd&#39;hui ?</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -691,6 +799,15 @@ Cependant, il existe des méthodes qui permettent de générer un système maté
       <guid>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</guid>
       <description>Flutter est un framework permettant de générer à partir d&amp;rsquo;une seule base de code des applications pour les mobiles (Android/iOS), le desktop (Windows/Mac/Linux) &amp;hellip; mais aussi le Web !
 Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. Nous reviendrons dans ce talk sur ce qu&amp;rsquo;il est possible de faire aujourd&amp;rsquo;hui avec cette technologie (possibilités et limitations).</description>
+    </item>
+    
+    <item>
+      <title>French Tech Brest&#43;</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/soutien/ftbp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/soutien/ftbp/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -703,7 +820,25 @@ Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. 
 Cette phrase, je l’ai entendue je ne sais combien de fois. Mais pourquoi autant de réticence ?
 Depuis quelques années émerge de nombreux talks d’introduction à la programmation fonctionnelle mais la réalité reste qu’il s’agit d’une pratique marginale sur l’ensemble des développements.
 Les raisons évoquées sont souvent les mêmes, tels des stéréotypes :
- le temps d’apprentissage Le jargon qui fait peur Les concepts mathématiques &amp;hellip;  Et si le problème n’était pas dans la manière dont on explique la programmation fonctionnelle mais plutôt comment cette pratique est introduite dans le quotidien d&amp;rsquo;une équipe ?</description>
+ Le temps d’apprentissage Le jargon qui fait peur Les concepts mathématiques &amp;hellip;  Et si le problème n’était pas dans la manière dont on explique la programmation fonctionnelle mais plutôt comment cette pratique est introduite dans le quotidien d&amp;rsquo;une équipe ?</description>
+    </item>
+    
+    <item>
+      <title>Geomod</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/geomod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/geomod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Google</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/platinium/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/platinium/google/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -734,6 +869,15 @@ I think this talk definitely matches the event for several reasons: * Voice assi
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/team/core/horacio_gonzalez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imascap SAS</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/imascap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/imascap/</guid>
       <description></description>
     </item>
     
@@ -813,6 +957,15 @@ Leur outil pour monitorer serveurs, bases de données: GRAFANA.</description>
     </item>
     
     <item>
+      <title>Lannion-Trégor Communauté</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/soutien/ltc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/soutien/ltc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Les risques de la revue de code</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/les_risques_de_la_revue_de_code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -832,6 +985,15 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
     </item>
     
     <item>
+      <title>Microsoft</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/microsoft/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/microsoft/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Monitorer ses APIs à partir de zéro, viser l&#39;au-delà, et la dimension business</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -847,6 +1009,15 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/_ok_toaster____building_interaction_for_the_next_generation/</guid>
       <description>As the younger generation sees us talk to cylindrical inanimate objects that respond to us, they are getting naturally used to this kind of interactions. As a business, getting ready to answer their needs will become inevitable in the next few years to remain competitive. As a developer, knowing how to build a voice bot will be a valuable asset. So, where should you start? Let me guide you through the voice transformation path with examples and technical explanation about how to easily add conversational features in your app and access them through the Google Assistant.</description>
+    </item>
+    
+    <item>
+      <title>Orange</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/orange/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/orange/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -875,6 +1046,16 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
       <guid>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</guid>
       <description>Playing videos might be easy at first but this can get very tricky when you have to support multiple video/audio formats or offline medias. But no worries ExoPlayer2 is there for you!
 This session will cover the basics of the ExoPlayer such as how to play a video thanks to the library and its core features. We&amp;rsquo;ll go through its architecture, how to set it up and what video format ExoPlayer supports from classic MP4 to adaptive streams like HLS or DASH with protected content.</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi l&#39;avenir du numérique est responsable ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</guid>
+      <description>Les services numériques doivent nous aider. Ils doivent nous permettre de comprendre, d’appréhender et de résoudre les problématiques planétaire que nous avons et qui se multiplient. Malheureusement, nous n&amp;rsquo;utilisons pas la puissance de cette technologie au mieux ! Le numérique devient de plus en plus gras. Les obésiciels sont devenus monnaie courante et nous forcent; pour continuer de les utiliser, à changer de téléphone, de PC&amp;hellip;
+Nos services numérique sont (très) loin d&amp;rsquo;être éco-conçus au low-tech : ils sont de plus en plus énergivores, consomment de plus en plus de ressources, créent de + en + de disparités, de problèmes éthiques de problèmes d’accessibilités &amp;hellip;</description>
     </item>
     
     <item>
@@ -990,6 +1171,15 @@ Il est temps de se mettre à jour ! Prenons quelques minutes pour :
     </item>
     
     <item>
+      <title>Université de Bretagne Occidentale</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/soutien/ubo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/soutien/ubo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vous livrez encore des bugs en prod ?! 😱</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -998,6 +1188,15 @@ Il est temps de se mettre à jour ! Prenons quelques minutes pour :
       <description>Le stagiaire a encore frappé ! C&amp;rsquo;était pourtant simple de passer le montant de la transaction en premier argument et le timestamp en second, non ? Et du coup, vous avez un problème à 1530795303€&amp;hellip;
 Mais&amp;hellip; est-ce vraiment sa faute ? Est-ce qu&amp;rsquo;on n&amp;rsquo;aurait pas dû empêcher que cette erreur puisse même se produire ?
 Je vous affirme au contraire qu&amp;rsquo;il est de notre devoir de viser le zéro bugs !</description>
+    </item>
+    
+    <item>
+      <title>Zenika</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/zenika/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/zenika/</guid>
+      <description></description>
     </item>
     
   </channel>
