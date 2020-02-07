@@ -9,6 +9,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _cloud___infra
 ---
 Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l'utilisation quotidienne peut être assez tricky.
 - Souhaitez-vous pouvoir créer des images plus petites, plus sûres et plus rapides à compiler ?

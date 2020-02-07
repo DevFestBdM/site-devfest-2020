@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _wtf
 ---
 Les services numériques doivent nous aider. 
 Ils doivent nous permettre de comprendre, d’appréhender et de résoudre les problématiques planétaire que nous avons et qui se multiplient. 

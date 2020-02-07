@@ -9,6 +9,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _big_data___ml___ai
 ---
 La mise en place d’un projet de management de données passe souvent par cette question cruciale : Comment stocker mes données ?  
 

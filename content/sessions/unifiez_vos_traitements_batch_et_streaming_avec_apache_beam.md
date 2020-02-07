@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _big_data___ml___ai
 ---
 Il était une fois, dans le vaste monde du Big Data, plusieurs frameworks et environnements d'exécution. On les utilisaient pour concevoir, coder et exécuter des tâches ETL, streaming et batch.
 Il était très compliqué pour les développeurs et les architectes de choisir la bonne solution correspondant à chaque cas d'utilisation. Elle devait être évolutive et pouvoir s'adapter efficacement à la production.

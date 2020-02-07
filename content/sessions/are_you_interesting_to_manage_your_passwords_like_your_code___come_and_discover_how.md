@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _method___tools
 ---
 La gestion de mot de passe est une partie bien-souvent douloureuse, voir fastidieuse.
 

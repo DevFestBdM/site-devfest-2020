@@ -10,6 +10,7 @@ speakers:
 format: lab
 draft: false
 tags:
+  - _native_mobile_apps
 ---
 Kotlin Multiplatform est une solution de développement open-source permettant de mutualiser du code pour des applications iOS et Android. De vraies applications natives sans compromis qualitatif mais avec une code base en Kotlin partagée pour tout ce qui n’est pas spécifique à la plateforme iOS ou Android.
 

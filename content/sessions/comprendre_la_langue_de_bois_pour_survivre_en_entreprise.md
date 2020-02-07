@@ -9,6 +9,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _wtf
 ---
 “En phase de montée en charge de la compétitivité collaborative, il faut coacher les alternatives terrain.”
 Vous n’avez rien compris, nous non plus!  

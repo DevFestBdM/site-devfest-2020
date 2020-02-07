@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _wtf
 ---
 Vous êtes vous déjà retrouvé dans une de ces situations ?
 * Vous avez ajouté une nouvelle dépendance à votre projet sans vérifier la licence et donc sans en connaître les impacts.

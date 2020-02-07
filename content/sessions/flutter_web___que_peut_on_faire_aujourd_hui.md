@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _web
 ---
 Flutter est un framework permettant de générer à partir d'une seule base de code des applications pour les mobiles (Android/iOS), le desktop (Windows/Mac/Linux) ... mais aussi le Web !
 

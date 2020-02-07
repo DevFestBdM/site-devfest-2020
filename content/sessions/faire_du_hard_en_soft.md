@@ -8,7 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
-  - _iot
+  - _native_mobile_apps
 ---
 Lorsqu'on souhaite designer sa propre puce, on est forcément confronté à l'utilisation d'un langage de description matérielle type Verilog ou VHDL (mais ce ne sont pas les seuls !) pour concevoir un système pour un circuit de type FPGA.
 

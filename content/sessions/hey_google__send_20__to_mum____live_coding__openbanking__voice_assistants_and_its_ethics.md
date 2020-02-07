@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _wtf
 ---
 Not sure if I should write in English or French here. Website is in english so I'll go for that but I can do all in French as well :). I studied in Brest so I'd be happy to do a demo there again!
 

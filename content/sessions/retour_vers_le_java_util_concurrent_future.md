@@ -9,6 +9,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _method___tools
 ---
 La programmation réactive, tout le monde en parle, l’avez vous vraiment cernée ?
 

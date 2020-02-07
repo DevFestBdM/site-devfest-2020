@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _web
 ---
 La Web platform évolue en permanence ! Et ça fait 4 ans qu'on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable & Engaging !
 

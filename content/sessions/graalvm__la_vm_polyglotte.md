@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _method___tools
 ---
 “*Cette librairie n'est pas disponible dans mon langage de programmation. Je dois la réécrire.*"
 

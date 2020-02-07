@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _wtf
 ---
 En tant que designer, je design. En tant que développeur, il développe. Jusque-là tout est normal. Sauf que quand ce qui a été développé ne correspond pas, que les besoins évoluent, le temps s'accélère et des frictions éclatent. On cherche alors des responsables de part et d’autre et les échanges deviennent tendus.
 

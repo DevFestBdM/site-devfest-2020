@@ -9,6 +9,7 @@ speakers:
 format: lab
 draft: false
 tags:
+  - _cloud___infra
 ---
 Habituellement, lors d’un challenge de sécurité type CTF ( https://ctf101.org/ ) l’objectif est de trouver la faille. Nous vous proposons de faire l’inverse : sécurisez un cluster kubernetes pour faire face à des mauvaises pratiques et failles courantes.
 

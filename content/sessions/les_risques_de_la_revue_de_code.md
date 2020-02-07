@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _method___tools
 ---
 Je suis un développeur qui n'aime pas la revue de code, et je vais vous expliquer tout le mal que j'en pense. 
 

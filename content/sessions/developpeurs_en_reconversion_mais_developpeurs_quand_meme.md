@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _wtf
 ---
 Ces dernières années, les "fabriques de dev" et autres formations courtes explosent. C'est un fait, tout dev a été ou sera amené à travailler avec l'un de ces jeunes développeurs.euses. Mais qui sont-ils ? Pourquoi une reconversion dans ce genre d'organisation ? Qu'ont-ils appris lors de leurs formation express ? C'est fiable ce genre de dev ? Comment puis-je les intégrer au mieux dans ma structure ?
 

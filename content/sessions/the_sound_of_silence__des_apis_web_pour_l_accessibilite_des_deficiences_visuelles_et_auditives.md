@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _web
 ---
 Selon l'OMS, il y a dans le monde 253 millions de personnes présentant une déficience visuelle et 360 millions présentant une déficience auditive. Soit entre 2 à 3 fois plus que d'utilisateurs d'Internet Explorer.
 

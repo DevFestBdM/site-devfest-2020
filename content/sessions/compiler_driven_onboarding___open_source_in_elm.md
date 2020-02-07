@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _method___tools
 ---
 De la première "good first issue" résolue jusqu'à une PR conséquente, je
 raconterai comment j'ai intégré le projet open source elm-in-elm

@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _method___tools
 ---
 Vous ne voyez pas l'intérêt du MVVM? 
 Vous avez encore des findViewById dans vos projets? 

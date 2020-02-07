@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _native_mobile_apps
 ---
 Playing videos might be easy at first but this can get very tricky when you have to support multiple video/audio formats or offline medias. But no worries ExoPlayer2 is there for you!
 

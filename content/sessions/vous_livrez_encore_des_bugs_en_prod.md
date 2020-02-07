@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _method___tools
 ---
 Le stagiaire a encore frappé ! C'était pourtant simple de passer le montant de la transaction en **premier** argument et le timestamp en **second**, non ? Et du coup, vous avez un problème à 1530795303€...
 

@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _wtf
 ---
 Les projets open source ont investi notre vie de développeur : que cela soit au travers des frameworks, des librairies, des IDE ou de documentation, ce sont des outils qui améliorent notre travail au quotidien. 
 De nombreuses opportunités s'offrent à nous pour participer à leur essor et ces opportunités sont toutes à notre portée.
