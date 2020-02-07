@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _web
 ---
 Le format d'instruction binaire WebAssembly a ouvert la porte des navigateurs à tous les langages de haut-niveaux en leur fournissant une cible de compilation portable prise en charge depuis 2017 par les principaux navigateurs web.
 

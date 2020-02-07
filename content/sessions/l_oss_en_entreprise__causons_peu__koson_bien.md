@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _wtf
 ---
 [Koson](https://github.com/lectra-tech/koson) est la première librairie Kotlin fraîchement open sourcée par Lectra.
 Il s'agit d'un DSL qui permet de décrire du JSON de manière concise, puis de le sérialiser avec des options (pretty).

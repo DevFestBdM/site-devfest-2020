@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _cloud___infra
 ---
 Vous connaissez surement Redis l'une des bases de données NoSQL les plus populaires chez les développeurs.
 

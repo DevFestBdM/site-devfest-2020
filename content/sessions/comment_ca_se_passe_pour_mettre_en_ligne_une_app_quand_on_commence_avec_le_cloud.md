@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _cloud___infra
 ---
 Tous les cloud provider promettent la même chose :
 

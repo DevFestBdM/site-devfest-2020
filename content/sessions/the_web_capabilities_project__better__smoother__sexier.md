@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _web
 ---
 * Fonction Offline: ✓
 * Fonction Installable: ✓

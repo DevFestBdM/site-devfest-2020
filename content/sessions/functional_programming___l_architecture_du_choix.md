@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _method___tools
 ---
 "La programmation fonctionnelle, c'est trop compliqué !"  
 Cette phrase, je l’ai entendue je ne sais combien de fois. Mais pourquoi autant de réticence ?

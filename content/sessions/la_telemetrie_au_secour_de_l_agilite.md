@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _wtf
 ---
 [REX] Comment j'ai "agilisé" une équipe de 29 développeurs ? Avec la Télémétrie Agile !
 

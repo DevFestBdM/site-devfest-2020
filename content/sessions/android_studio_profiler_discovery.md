@@ -8,6 +8,7 @@ speakers:
 format: lightning
 draft: false
 tags:
+  - _native_mobile_apps
 ---
 Court talk de découverte présentant l'outil Profiler de l'IDE Android Studio.
 

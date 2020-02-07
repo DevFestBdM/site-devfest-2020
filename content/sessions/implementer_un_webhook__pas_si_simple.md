@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _cloud___infra
 ---
 Les Webhooks, vous connaissez ? Vous en avez sans doute déjà utilisé, par exemple pour être notifié d’un commit sur Github, pour réagir à l’arrivée d’un SMS avec Twilio, ou pour que votre chatbot Dialogflow réponde à ses interlocuteurs.
 

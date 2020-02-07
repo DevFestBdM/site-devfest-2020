@@ -8,6 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
+  - _native_mobile_apps
 ---
 In this talk, I'll explain the process of turning an idea into an app, building it, publishing and lessons learned along the way.
 

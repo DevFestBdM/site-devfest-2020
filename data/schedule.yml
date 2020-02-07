@@ -1,0 +1,81 @@
+- day: '2019-10-03'
+  start: '08:00'
+  rooms:
+    - room: room1
+      slots:
+        - slot: open
+          talk: __open
+        - slot: keynote-open
+          talk: keynote_open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: the_web_capabilities_project__better__smoother__sexier
+        - slot: slot-2
+          talk: monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-3
+          talk: the_flutter_journey_to_a_production_app
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: faire_du_hard_en_soft
+        - slot: slot-lt-2
+          talk: l_oss_en_entreprise__causons_peu__koson_bien
+        - slot: slot-lt-3
+          talk: android_studio_profiler_discovery
+        - slot: slot-4
+          talk: redis_du_cle_valeur_au_multi_modele
+        - slot: slot-5
+          talk: functional_programming___l_architecture_du_choix        
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-6
+          talk: une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur
+        - slot: slot-7
+          talk: j_ai_hacke_ma_spa_avec_c    
+        - slot: pause-3
+          talk: __pause
+        - slot: keynote-close-1
+          talk: keynote_close_1
+        - slot: keynote-close-2
+          talk: keynote_close_2
+    - room: room2
+      slots:
+        - slot: open
+          talk: __open
+        - slot: pause-1
+          talk: __pause
+        - slot: slot-1
+          talk: implementer_un_webhook__pas_si_simple
+        - slot: slot-2
+          talk: accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface
+        - slot: pause-2
+          talk: __pause
+        - slot: slot-3
+          talk: la_telemetrie_au_secour_de_l_agilite
+        - slot: lunch
+          talk: __lunch
+        - slot: slot-lt-1
+          talk: joue_la_comme_stanley_kubrick_en_webgl
+        - slot: slot-lt-2
+          talk: l_oss_en_entreprise__causons_peu__koson_bien
+        - slot: slot-lt-3
+          talk: android_studio_profiler_discovery
+        - slot: slot-4
+          talk: redis_du_cle_valeur_au_multi_modele
+        - slot: slot-5
+          talk: functional_programming___l_architecture_du_choix        
+        - slot: pause-3
+          talk: __pause
+        - slot: slot-6
+          talk: une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur
+        - slot: slot-7
+          talk: j_ai_hacke_ma_spa_avec_c    
+        - slot: pause-3
+          talk: __pause
+
+    - room: room3
+    - room: room4
+    - room: room5

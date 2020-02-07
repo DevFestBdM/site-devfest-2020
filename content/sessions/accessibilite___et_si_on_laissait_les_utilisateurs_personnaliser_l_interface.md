@@ -9,6 +9,7 @@ speakers:
 format: 
 draft: false
 tags:
+  - _wtf
 ---
 Des lecteurs et loupes d’écran aux claviers virtuels ; des styles utilisateurs aux CSS alternatives en passant par les nouvelles *media queries* : les navigateurs web et les systèmes d’exploitation fournissent déjà de nombreux mécanismes d’accessibilité pour permettre aux utilisateurs et utilisatrices en situation de handicap d’adapter les interfaces numériques à leurs besoins.
 
