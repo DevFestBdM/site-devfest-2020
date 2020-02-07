@@ -207,6 +207,30 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/_big_data___ml___ai/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/_cloud___infra/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/_method___tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/_native_mobile_apps/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/_web/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/_wtf/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/a_la_decouverte_de_jetpack_compose/</loc>
   </url>
   
@@ -216,6 +240,10 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/__open/</loc>
   </url>
   
   <url>
@@ -305,7 +333,15 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/keynote_close_2/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/__lunch/</loc>
   </url>
   
   <url>
@@ -357,6 +393,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/__hacking_noon/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</loc>
   </url>
   
@@ -395,6 +435,14 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/keynote/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/keynote_open/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/kotlin_multiplatform___mutualiser_du_code_sur_ios_et_android/</loc>
   </url>
   
@@ -419,6 +467,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/lunch/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/marc_poppleton/</loc>
   </url>
   
@@ -432,6 +484,10 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/_ok_toaster____building_interaction_for_the_next_generation/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/open/</loc>
   </url>
   
   <url>
@@ -453,6 +509,14 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/__pause/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/tags/pause/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/pierre_crepieux/</loc>
   </url>
   
@@ -469,6 +533,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/keynote_close_1/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</loc>
   </url>
   
@@ -478,6 +546,20 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/team/core/samuel_liard/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/schedule/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://devfest.duboutdumonde.bzh/fr/schedule/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://devfest.duboutdumonde.bzh/schedule/"
+                />
   </url>
   
   <url>

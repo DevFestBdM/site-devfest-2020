@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_web on DevFest du Bout du Monde 2020</title>
+    <link>https://devfest.duboutdumonde.bzh/tags/_web/</link>
+    <description>Recent content in _web on DevFest du Bout du Monde 2020</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language>
+    
+	<atom:link href="https://devfest.duboutdumonde.bzh/tags/_web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flutter Web - que peut-on faire aujourd&#39;hui ?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</guid>
+      <description>Flutter est un framework permettant de générer à partir d&amp;rsquo;une seule base de code des applications pour les mobiles (Android/iOS), le desktop (Windows/Mac/Linux) &amp;hellip; mais aussi le Web !
+Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. Nous reviendrons dans ce talk sur ce qu&amp;rsquo;il est possible de faire aujourd&amp;rsquo;hui avec cette technologie (possibilités et limitations).</description>
+    </item>
+    
+    <item>
+      <title>J&#39;ai hacké ma SPA avec C#</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</guid>
+      <description>Le format d&amp;rsquo;instruction binaire WebAssembly a ouvert la porte des navigateurs à tous les langages de haut-niveaux en leur fournissant une cible de compilation portable prise en charge depuis 2017 par les principaux navigateurs web.
+La communauté des développeurs .NET Core et ASP .NET Core s&amp;rsquo;est engouffrée dans la brèche pour respecter la promesse initiale de .NET : une même filière de développement permettant d&amp;rsquo;adresser tous les besoins.
+Les SPA étaient, jusqu&amp;rsquo;à présent, réservées aux développeurs Javascript et Typescript.</description>
+    </item>
+    
+    <item>
+      <title>Joue-la comme Stanley Kubrick en WebGL</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/joue_la_comme_stanley_kubrick_en_webgl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/joue_la_comme_stanley_kubrick_en_webgl/</guid>
+      <description>Créer une scène en Three.js affichant un cube c&amp;rsquo;est très facile. Mais qu&amp;rsquo;en est-il lorsqu&amp;rsquo;il s&amp;rsquo;agit d&amp;rsquo;implémenter une application full WebGL avec les frameworks modernes ( du type angular, react, svelte, vue, etc. ) ? Facebook, Google, Snapchat et pleins d&amp;rsquo;autres compagnies ont déjà glisser vers cette nouvelle dimension. Avant de se la jouer comme Stanley Kubrick, il vous faudra connaitre les pièges à éviter et comment améliorer les performances de votre application (les fameux 60fps).</description>
+    </item>
+    
+    <item>
+      <title>The Sound of Silence- Des APIs Web pour l&#39;accessibilité des déficiences visuelles et auditives</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/the_sound_of_silence__des_apis_web_pour_l_accessibilite_des_deficiences_visuelles_et_auditives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/the_sound_of_silence__des_apis_web_pour_l_accessibilite_des_deficiences_visuelles_et_auditives/</guid>
+      <description>Selon l&amp;rsquo;OMS, il y a dans le monde 253 millions de personnes présentant une déficience visuelle et 360 millions présentant une déficience auditive. Soit entre 2 à 3 fois plus que d&amp;rsquo;utilisateurs d&amp;rsquo;Internet Explorer.
+Et pourtant, on préfère optimiser pour Internet Explorer plutôt que pour les déficiences visuelles et auditives.
+Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces dernières années pour nous aider à construire des applications web inclusives.</description>
+    </item>
+    
+    <item>
+      <title>The web capabilities project- Better, Smoother, Sexier</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/the_web_capabilities_project__better__smoother__sexier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_capabilities_project__better__smoother__sexier/</guid>
+      <description>Fonction Offline: ✓ Fonction Installable: ✓ Accéder aux contacts : ✓ QUOI ? on peut accéder aux contacts ? Ecrire sur le file syste: ✓ NAN, Sérieux, ça aussi?  Vous l&amp;rsquo;avez compris, dans ce talk, on a pour objectif de vous présenter toutes les nouveautés de la plateformes web qui étaient jusqu&amp;rsquo;à aujourd&amp;rsquo;hui réservées au développement natif.</description>
+    </item>
+    
+    <item>
+      <title>The Web is on 🔥 F.I.R.E. 🔥 !!! (conference)</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/the_web_is_on____f_i_r_e__________conference/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_is_on____f_i_r_e__________conference/</guid>
+      <description>La Web platform évolue en permanence ! Et ça fait 4 ans qu&amp;rsquo;on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable &amp;amp; Engaging !
+Il est temps de se mettre à jour ! Prenons quelques minutes pour :
+ faire le point sur les tous derniers drafts du W3C, WICG et WHATWG
+ les démontrer dans le browser</description>
+    </item>
+    
+    <item>
+      <title>Trucs et astuces pour consommer une API REST</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</guid>
+      <description>Consommer une API REST fait désormais partie de notre quotidien de développeur. Que ce soit pour appeler un composant de notre belle architecture micro-services, un service externe hébergé par un tiers, réaliser un appel HTTP est plus que courant dans nos applications. Nous avons à disposition pléthore de ressources pour bien concevoir son API REST mais comment faisons-nous pour en consommer une de manière efficace ?
+ Cela commence souvent par la découverte d&amp;rsquo;une nouvelle API.</description>
+    </item>
+    
+  </channel>
+</rss>

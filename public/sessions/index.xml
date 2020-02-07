@@ -40,6 +40,15 @@ Mais l’absence de support homogène entre les navigateurs et le manque de pers
     </item>
     
     <item>
+      <title>Accueil, Thé, Café et Viennoseries</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__open/</guid>
+      <description>Accueil, Thé, Café et Viennoseries</description>
+    </item>
+    
+    <item>
       <title>Android Studio Profiler Discovery</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -129,12 +138,30 @@ Dans ce talk, nous vous montrerons grâce à des exemples comment l’informatio
     </item>
     
     <item>
+      <title>Deuxième keynote de clôture</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/keynote_close_2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/keynote_close_2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Docker, Kubernetes &amp; Istio - Tips, tricks &amp; tools</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</guid>
       <description>Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l&amp;rsquo;utilisation quotidienne peut être assez tricky. - Souhaitez-vous pouvoir créer des images plus petites, plus sûres et plus rapides à compiler ? - Avez-vous des difficultés avec les descripteurs Kubernetes YAML et les lignes de commande sans fin ? - Quand tout va mal, comment déboguez-vous un conteneur ? Et plusieurs pods ?</description>
+    </item>
+    
+    <item>
+      <title>Déjeuner</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__lunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__lunch/</guid>
+      <description>Bon appétit</description>
     </item>
     
     <item>
@@ -223,6 +250,15 @@ Oyez , oyez Développeurs! Plus d’inquiétude, GraalVM arrive à la rescousse!
     </item>
     
     <item>
+      <title>Hacking noon</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__hacking_noon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__hacking_noon/</guid>
+      <description>Let&amp;rsquo;s contribute together to some open source projects&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>Hey Google, send 20€ to Mum! - Live coding, OpenBanking, Voice Assistants and its ethics</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -260,6 +296,15 @@ Les SPA étaient, jusqu&amp;rsquo;à présent, réservées aux développeurs Jav
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/joue_la_comme_stanley_kubrick_en_webgl/</guid>
       <description>Créer une scène en Three.js affichant un cube c&amp;rsquo;est très facile. Mais qu&amp;rsquo;en est-il lorsqu&amp;rsquo;il s&amp;rsquo;agit d&amp;rsquo;implémenter une application full WebGL avec les frameworks modernes ( du type angular, react, svelte, vue, etc. ) ? Facebook, Google, Snapchat et pleins d&amp;rsquo;autres compagnies ont déjà glisser vers cette nouvelle dimension. Avant de se la jouer comme Stanley Kubrick, il vous faudra connaitre les pièges à éviter et comment améliorer les performances de votre application (les fameux 60fps).</description>
+    </item>
+    
+    <item>
+      <title>Keynote d&#39;ouverture</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/keynote_open/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/keynote_open/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -336,6 +381,15 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
     </item>
     
     <item>
+      <title>Pause</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/__pause/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/__pause/</guid>
+      <description>Pause</description>
+    </item>
+    
+    <item>
       <title>Playing Videos on Android? ExoPlayer2 at your service!</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/playing_videos_on_android__exoplayer2_at_your_service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -353,6 +407,15 @@ This session will cover the basics of the ExoPlayer such as how to play a video 
       <guid>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</guid>
       <description>Les services numériques doivent nous aider. Ils doivent nous permettre de comprendre, d’appréhender et de résoudre les problématiques planétaire que nous avons et qui se multiplient. Malheureusement, nous n&amp;rsquo;utilisons pas la puissance de cette technologie au mieux ! Le numérique devient de plus en plus gras. Les obésiciels sont devenus monnaie courante et nous forcent; pour continuer de les utiliser, à changer de téléphone, de PC&amp;hellip;
 Nos services numérique sont (très) loin d&amp;rsquo;être éco-conçus au low-tech : ils sont de plus en plus énergivores, consomment de plus en plus de ressources, créent de + en + de disparités, de problèmes éthiques de problèmes d’accessibilités &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Première keynote de clôture</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/keynote_close_1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/keynote_close_1/</guid>
+      <description></description>
     </item>
     
     <item>
