@@ -8,7 +8,7 @@ speakers:
 format: conference
 draft: false
 tags:
-  - _method___tools 
+  - _big_data___ml___ai
 ---
 Initialement abordé sous un angle technique, le monitoring d'API gagne à évoluer en maturité pour devenir pourvoyeur d'informations à caractère stratégique.
 Dans un contexte de déploiement d'APIs REST, cette présentation passera en revue différentes façons de monitorer des APIs.
