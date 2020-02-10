@@ -44,6 +44,16 @@ En plus Gérard veut que ce soit fait pour hier !</description>
     </item>
     
     <item>
+      <title>Hey Google, send 20€ to Mum! - Live coding, OpenBanking, Voice Assistants and its ethics</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</guid>
+      <description>Not sure if I should write in English or French here. Website is in english so I&amp;rsquo;ll go for that but I can do all in French as well :). I studied in Brest so I&amp;rsquo;d be happy to do a demo there again!
+I think this talk definitely matches the event for several reasons: * Voice assistants are coming, and they will be part of our future! Kids are already used to using them daily.</description>
+    </item>
+    
+    <item>
       <title>Implémenter un Webhook, pas si simple !</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/implementer_un_webhook__pas_si_simple/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -51,17 +61,6 @@ En plus Gérard veut que ce soit fait pour hier !</description>
       <guid>https://devfest.duboutdumonde.bzh/sessions/implementer_un_webhook__pas_si_simple/</guid>
       <description>Les Webhooks, vous connaissez ? Vous en avez sans doute déjà utilisé, par exemple pour être notifié d’un commit sur Github, pour réagir à l’arrivée d’un SMS avec Twilio, ou pour que votre chatbot Dialogflow réponde à ses interlocuteurs.
 Côté consommateur de Webhook, cela semble plutôt facile à développer… Côté serveur, c’est “juste” une API à implémenter, non ? Hmm… En fait, nous allons voir que ce n’est peut-être pas si simple que cela !</description>
-    </item>
-    
-    <item>
-      <title>Redis du Clé/Valeur au Multi-Modèle</title>
-      <link>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</guid>
-      <description>Vous connaissez surement Redis l&amp;rsquo;une des bases de données NoSQL les plus populaires chez les développeurs.
-Vous l&amp;rsquo;utilisez peut être déjà, mais surement de façon simple: un cache clé/valeur.
-Cette présentation qui s&amp;rsquo;appuie sur de nombreuses démonstrations va vous permettre de découvrir la puissance de Redis et son système d&amp;rsquo;extensions (les Modules Redis). Redis vous permet maintenant de gérer plusieurs modèles de données: Clé/Valeur, Document/JSON, Time Series, Streaming Log, Search&amp;hellip; pour résumé une base de donnée polyglotte, comme vos applications!</description>
     </item>
     
     <item>
