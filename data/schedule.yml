@@ -72,7 +72,7 @@
         - slot: slot-6
           talk: a_la_decouverte_de_la_realite_augmentee_avec_arcore
         - slot: slot-7
-          talk: docker__kubernetes___istio___tips__tricks___tools   
+          talk: comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud 
         - slot: pause-4
           talk: __pause
 
@@ -85,7 +85,7 @@
         - slot: slot-1
           talk: unifiez_vos_traitements_batch_et_streaming_avec_apache_beam
         - slot: slot-2
-          talk: comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud
+          talk: docker__kubernetes___istio___tips__tricks___tools  
         - slot: pause-2
           talk: __pause
         - slot: slot-3
