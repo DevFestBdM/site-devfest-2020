@@ -72,15 +72,5 @@ Il est temps de se mettre à jour ! Prenons quelques minutes pour :
  les démontrer dans le browser</description>
     </item>
     
-    <item>
-      <title>Trucs et astuces pour consommer une API REST</title>
-      <link>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</guid>
-      <description>Consommer une API REST fait désormais partie de notre quotidien de développeur. Que ce soit pour appeler un composant de notre belle architecture micro-services, un service externe hébergé par un tiers, réaliser un appel HTTP est plus que courant dans nos applications. Nous avons à disposition pléthore de ressources pour bien concevoir son API REST mais comment faisons-nous pour en consommer une de manière efficace ?
- Cela commence souvent par la découverte d&amp;rsquo;une nouvelle API.</description>
-    </item>
-    
   </channel>
 </rss>

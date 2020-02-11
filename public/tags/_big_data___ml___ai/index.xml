@@ -22,15 +22,6 @@ Qu&amp;rsquo;il s&amp;rsquo;agisse de la récupération d&amp;rsquo;une simple e
     </item>
     
     <item>
-      <title>Monitorer ses APIs à partir de zéro, viser l&#39;au-delà, et la dimension business</title>
-      <link>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</guid>
-      <description>Initialement abordé sous un angle technique, le monitoring d&amp;rsquo;API gagne à évoluer en maturité pour devenir pourvoyeur d&amp;rsquo;informations à caractère stratégique. Dans un contexte de déploiement d&amp;rsquo;APIs REST, cette présentation passera en revue différentes façons de monitorer des APIs. Sans avoir la prétention d&amp;rsquo;être exhaustif sur les techniques à mettre en œuvre, nous montrerons que le choix des métriques est crucial, tout autant que l&amp;rsquo;exploitation qui est en faite. Ainsi, la collecte de métriques ne sera plus uniquement un enjeu IT, mais également business dans une démarche d&amp;rsquo;amélioration de l&amp;rsquo;expérience client.</description>
-    </item>
-    
-    <item>
       <title>Redis du Clé/Valeur au Multi-Modèle</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/redis_du_cle_valeur_au_multi_modele/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
