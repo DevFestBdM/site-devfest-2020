@@ -54,7 +54,7 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-3
-          talk: the_web_is_on____f_i_r_e__________conference
+          talk: change_data_capture_in_production
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
