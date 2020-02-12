@@ -67,6 +67,15 @@ Blog: https://blog.touret.info</description>
     
     <item>
       <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/david_morin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/david_morin/</guid>
+      <description>Je suis devops Big Data dans l&amp;rsquo;équipe Data Convergence chez OVH. Je travaille sur la mise en oeuvre d&amp;rsquo;architectures pour les produits OVH autour de la donnée (ingestion, analyse, stockage, traitement). J&amp;rsquo;ai découvert le Big Data avec Hadoop il y a 6 ans et je suis tombé sous le charme de son écosystème dynamique. Depuis lors, j&amp;rsquo;ai mis en oeuvre différents types de systèmes traitant de la donnée avec de nombreux challenges techniques qui en découlent.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/edouard_marquez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -335,17 +344,6 @@ Je suis actuellement Tech Lead Cloud chez Lectra, numéro un mondial des solutio
     
     <item>
       <title></title>
-      <link>https://devfest.duboutdumonde.bzh/speakers/noel_mace/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/speakers/noel_mace/</guid>
-      <description>Noël est un passionné de DevRel, d&amp;rsquo;enseignement, et de transmission de compétences en général. Tour à tour ingénieur pédagogique, formateur, architecte, développeur web et developer advocate depuis plus de 10 ans, il consacre aujourd&amp;rsquo;hui l’essentiel de son temps à accompagner la communauté vers une meilleure maîtrise et adoption des capacités modernes du Web.
-(en)
-Passionate about sharing technical knowledge and about meeting and helping people, Noël loves to teach and has offered talks on diverse topics from the very beginning of his career in technology.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/olivier_leplus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -493,6 +491,15 @@ Je suis aussi épicurien de nature et sportif à mes heures perdues …</descrip
       <description>Currenlty an architect in a french e-shopping company. I work on a daily basis around microservices and how to work with them.
 I&amp;rsquo;m really attached to new technology and work hard to be up to date on tech news. I happily share what I can whenever I get the chance. What I love the most is learning new things
 Speaker at Devoxx France 2018 =&amp;gt; &amp;ldquo;De la musique collaborative avec Kafka&amp;rdquo; / https://youtu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/yann_pauly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/yann_pauly/</guid>
+      <description>Je suis Senior Software Engineer au sein de l&amp;rsquo;équipe Data Convergence chez OVH. Je travaille sur la conception et le développement de produits autour de l&amp;rsquo;ingestion de données, de data lakes et des plateformes d&amp;rsquo;analytics. Spécialisé sur la partie backend, je suis plutôt passionné par la conception d&amp;rsquo;API reponsives, la modularité et la performance. J&amp;rsquo;essaie également de partager ces passions avec des étudiants en tant qu&amp;rsquo;intervenant à l&amp;rsquo;Université de Bretagne Occidentale où je donne quelques cours.</description>
     </item>
     
     <item>
@@ -658,6 +665,15 @@ Mais alors pourquoi pas gérer nos mots de passe comme du code ?</description>
       
       <guid>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Change Data Capture in production</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</guid>
+      <description>OVH, 18 ans d’existence, est aujourd’hui le 1er cloud provider européen. Pour suivre et piloter son business, OVH a mis en place un datalake interne. L’idée étant de centraliser l’ensemble des données issues de plusieurs milliers de tables localisées dans ses différents datacentres pour ensuite générer les KPIs utiles au business. Le point essentiel est que ces données doivent être mises à jour continuellement. Cette présentation décrit le pipeline actuellement en production et les différentes itérations.</description>
     </item>
     
     <item>
@@ -1191,18 +1207,6 @@ Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces der
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_capabilities_project__better__smoother__sexier/</guid>
       <description>Fonction Offline: ✓ Fonction Installable: ✓ Accéder aux contacts : ✓ QUOI ? on peut accéder aux contacts ? Ecrire sur le file syste: ✓ NAN, Sérieux, ça aussi?  Vous l&amp;rsquo;avez compris, dans ce talk, on a pour objectif de vous présenter toutes les nouveautés de la plateformes web qui étaient jusqu&amp;rsquo;à aujourd&amp;rsquo;hui réservées au développement natif.</description>
-    </item>
-    
-    <item>
-      <title>The Web is on 🔥 F.I.R.E. 🔥 !!! (conference)</title>
-      <link>https://devfest.duboutdumonde.bzh/sessions/the_web_is_on____f_i_r_e__________conference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_is_on____f_i_r_e__________conference/</guid>
-      <description>La Web platform évolue en permanence ! Et ça fait 4 ans qu&amp;rsquo;on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable &amp;amp; Engaging !
-Il est temps de se mettre à jour ! Prenons quelques minutes pour :
- faire le point sur les tous derniers drafts du W3C, WICG et WHATWG
- les démontrer dans le browser</description>
     </item>
     
     <item>
