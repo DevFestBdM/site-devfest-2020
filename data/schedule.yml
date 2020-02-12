@@ -89,7 +89,7 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-3
-          talk: la_telemetrie_au_secour_de_l_agilite    
+          talk: vous_livrez_encore_des_bugs_en_prod
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
@@ -119,7 +119,7 @@
         - slot: slot-1
           talk: et_si_le_design_etait_en_fait_l_affaire_de_tous
         - slot: slot-2
-          talk: vous_livrez_encore_des_bugs_en_prod
+          talk: la_telemetrie_au_secour_de_l_agilite
         - slot: pause-2
           talk: __pause
         - slot: slot-3
