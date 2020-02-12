@@ -1,6 +1,6 @@
 ---
 key: la_telemetrie_au_secour_de_l_agilite
-title: La télémétrie au secour de l'Agilité ! 
+title: La télémétrie au secours de l'Agilité ! 
 language: Francais
 level: intermediate
 speakers:
