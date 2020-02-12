@@ -50,11 +50,11 @@
         - slot: slot-1
           talk: implementer_un_webhook__pas_si_simple
         - slot: slot-2
-          talk: accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface
+          talk: change_data_capture_in_production
         - slot: pause-2
           talk: __pause
         - slot: slot-3
-          talk: the_web_is_on____f_i_r_e__________conference
+          talk: accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
