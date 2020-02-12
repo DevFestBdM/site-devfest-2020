@@ -67,6 +67,15 @@ Blog: https://blog.touret.info</description>
     
     <item>
       <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/david_morin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/david_morin/</guid>
+      <description>Je suis devops Big Data dans l&#39;équipe Data Convergence chez OVH. Je travaille sur la mise en oeuvre d&amp;rsquo;architectures pour les produits OVH autour de la donnée (ingestion, analyse, stockage, traitement). J&amp;rsquo;ai découvert le Big Data avec Hadoop il y a 6 ans et je suis tombé sous le charme de son écosystème dynamique. Depuis lors, j&amp;rsquo;ai mis en oeuvre différents types de systèmes traitant de la donnée avec de nombreux challenges techniques qui en découlent.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/edouard_marquez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -100,7 +109,7 @@ Depuis il ne cesse de crier son amour pour Flutter, en ayant notamment cofondé 
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/erwann_thebault/</guid>
       <description>Erwann Thebault est consultant à Zenika Rennes. Il participe à la conception et réalisation de projets backend autour de Java, Spring Boot, ELK,&amp;hellip; .
-Geek, il s&amp;rsquo;est interessé a l&amp;rsquo;évolutions des object connectés, puis à l&amp;rsquo;emergence de l&amp;rsquo;IOT : le web, ce n&amp;rsquo;est plus seulement un navigateur.</description>
+Geek, il s&amp;rsquo;est interessé a l&#39;évolutions des object connectés, puis à l&amp;rsquo;emergence de l&amp;rsquo;IOT : le web, ce n&amp;rsquo;est plus seulement un navigateur.</description>
     </item>
     
     <item>
@@ -195,7 +204,7 @@ Organisateur de la conférence Riviera DEV et du meetup JSSophia sur Sophia-Anti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/jeremy_hennart/</guid>
-      <description>Program Manager, Scrum Master, Facilitateur, ou encore chef de projet. J&amp;rsquo;accompagne des équipes techniques dans mon quotidien. Je m&amp;rsquo;applique à l&amp;rsquo;orchestration des projets avec l&amp;rsquo;idéologie Agile. Les challenges, l&amp;rsquo;effort et l&amp;rsquo;esprit d&amp;rsquo;équipe m&amp;rsquo;accompagnent dans mon quotidien. #Scrum, #ScrumMaster #Kaizen, #Kanban #Agile #BonSensPaysan! #Kintsugi</description>
+      <description>Program Manager, Scrum Master, Facilitateur, ou encore chef de projet. J&amp;rsquo;accompagne des équipes techniques dans mon quotidien. Je m&amp;rsquo;applique à l&amp;rsquo;orchestration des projets avec l&amp;rsquo;idéologie Agile. Les challenges, l&amp;rsquo;effort et l&amp;rsquo;esprit d&#39;équipe m&amp;rsquo;accompagnent dans mon quotidien. #Scrum, #ScrumMaster #Kaizen, #Kanban #Agile #BonSensPaysan! #Kintsugi</description>
     </item>
     
     <item>
@@ -224,7 +233,7 @@ Il passe le reste de son temps libre à refuser les cookies sur les sites web qu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/juliane_blier/</guid>
-      <description>Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. Cela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019, et une présentée seule au DevFest Toulouse 2019. Et je m&amp;rsquo;épanouis totalement dans cette nouvelle activité !</description>
+      <description>Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. Cela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019, et une présentée seule au DevFest Toulouse 2019. Et je m&#39;épanouis totalement dans cette nouvelle activité !</description>
     </item>
     
     <item>
@@ -280,7 +289,7 @@ Addict of agility and DevOps, some of my missions were to help teams to follow t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/marie_viley/</guid>
-      <description>Recruteuse chez Zenika, je me suis toujours intéressée à la communication non verbale et aux mécanismes d’influence et de prise de décision. Ce qui me motive, c’est de comprendre au mieux les gens et de pouvoir échanger avec eux. Fan des conférences TED et #TRU je suis constamment en veille sur le recrutement, le RGPD et les nouveautés tech. J’aime également le métal, la bière et Dikkenek ^^</description>
+      <description>Recruteuse chez Zenika, je me suis toujours intéressée à la communication non verbale et aux mécanismes d’influence et de prise de décision. Ce qui me motive, c’est de comprendre au mieux les gens et de pouvoir échanger avec eux. Fan des conférences TED et [#TRU] (https://www.linkhumans.fr/tru/) je suis constamment en veille sur le recrutement, le RGPD et les nouveautés tech. J’aime également le métal, la bière et Dikkenek ^^</description>
     </item>
     
     <item>
@@ -291,7 +300,8 @@ Addict of agility and DevOps, some of my missions were to help teams to follow t
       <guid>https://devfest.duboutdumonde.bzh/speakers/maxime_lumeau/</guid>
       <description>FRENCH Je développe professionnellement des applications mobiles Android et iOS depuis 2015.
 Je donne aussi des conférences en université et meetups autour des sujets mobiles.
-En tant que speaker: - Université de Toulouse Jean Jaurès - 2016, 2017 - Conférence &amp;ldquo;Développement industrialisé d&amp;rsquo;applications mobiles&amp;rdquo; (3h) - Meetup GDG Android Nantes - Novembre 2018 - &amp;ldquo;Android Navigation Component&amp;rdquo; (40mn) - Meetup GDG Android Nantes - Mai 2019 - &amp;ldquo;Natif, cross-platform, ou les deux ?</description>
+En tant que speaker:
+ Université de Toulouse Jean Jaurès - 2016, 2017 - Conférence &amp;ldquo;Développement industrialisé d&amp;rsquo;applications mobiles&amp;rdquo; (3h) Meetup GDG Android Nantes - Novembre 2018 - &amp;ldquo;Android Navigation Component&amp;rdquo; (40mn) Meetup GDG Android Nantes - Mai 2019 - &amp;ldquo;Natif, cross-platform, ou les deux ?</description>
     </item>
     
     <item>
@@ -301,7 +311,7 @@ En tant que speaker: - Université de Toulouse Jean Jaurès - 2016, 2017 - Conf�
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/maxime_odye/</guid>
       <description>Maxime, consultant back-end et membre de la direction technique chez Zenika Rennes.
-Passionné techniquement, j&amp;rsquo;aime découvrir et re-découvrir les différentes technologies gravitant autour de l&amp;rsquo;écosystème Java. Amateur des différentes communautés (Jug, BreizhCamp, AgileTour), j&amp;rsquo;estime que le partage technique, et non technique, dans le secteur de l&amp;rsquo;IT est quelque chose d&amp;rsquo;extraordinaire.
+Passionné techniquement, j&amp;rsquo;aime découvrir et re-découvrir les différentes technologies gravitant autour de l&#39;écosystème Java. Amateur des différentes communautés (Jug, BreizhCamp, AgileTour), j&amp;rsquo;estime que le partage technique, et non technique, dans le secteur de l&amp;rsquo;IT est quelque chose d&amp;rsquo;extraordinaire.
 Découverte, progression et approfondissement, l&amp;rsquo;enrichissement personnel est grand et essentiel pour nous faire tous progresser. Je suis formateur Elasticsearch et Elastic Stack, certified Spring Core by Pivotal et organisateur de l&amp;rsquo;Agile Tour Rennes</description>
     </item>
     
@@ -330,7 +340,7 @@ Je suis actuellement Tech Lead Cloud chez Lectra, numéro un mondial des solutio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/nicolas_tisserand/</guid>
-      <description>Je travaille pour et dans le groupe Crédit Mutuel Arkéa depuis l&amp;rsquo;an 2000. Initialement développeur n-tiers, certifié Java, j&amp;rsquo;ai pris progressivement la responsabilité d&amp;rsquo;architectures toujours plus complexes. Depuis maintenant 3 ans, j&amp;rsquo;évolue sur le vaste périmètre de l&amp;rsquo;API Management en adressant toutes les composantes de ce métier : conception, sécurisation, test, intégration continue, monitoring, exploitation d&amp;rsquo;une gateway d&amp;rsquo;API, formation des utilisateurs, &amp;hellip;</description>
+      <description>Je travaille pour et dans le groupe Crédit Mutuel Arkéa depuis l&amp;rsquo;an 2000. Initialement développeur n-tiers, certifié Java, j&amp;rsquo;ai pris progressivement la responsabilité d&amp;rsquo;architectures toujours plus complexes. Depuis maintenant 3 ans, j&#39;évolue sur le vaste périmètre de l&amp;rsquo;API Management en adressant toutes les composantes de ce métier : conception, sécurisation, test, intégration continue, monitoring, exploitation d&amp;rsquo;une gateway d&amp;rsquo;API, formation des utilisateurs, &amp;hellip;</description>
     </item>
     
     <item>
@@ -397,11 +407,11 @@ J&amp;rsquo;ai rejoint les rangs de Stack Labs en 2018, une petite structure tou
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/robin_caroff/</guid>
-      <description> Technical Lead at Resonantes (http://association.resonantes.fr/).
+      <description>Technical Lead at Resonantes (http://association.resonantes.fr/).
 Former Co-Founder and Director of the mobile application agency Toki (www.toki.agency).
 Mobile developer since 2011, I am also Co-Founder and Organizer of the GDG Nantes Android (https://www.meetup.com/fr-FR/gdg_nantes_android/).
 Technology enthusiast, highly convinced that technology and mobile devices can improve productivity for small as well as for big companies.
-Links  Twitter Profile Linkedin Profile Talks (Speaker Deck)  </description>
+Links  [Twitter Profile] (https://twitter.com/RobinCaroff) [Linkedin Profile] (https://www.linkedin.com/in/robincaroff/) [Talks (Speaker Deck)] (https://speakerdeck.com/robincaroff)  </description>
     </item>
     
     <item>
@@ -497,11 +507,20 @@ Speaker at Devoxx France 2018 =&amp;gt; &amp;ldquo;De la musique collaborative a
     
     <item>
       <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/yann_pauly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/yann_pauly/</guid>
+      <description>Je suis Senior Software Engineer au sein de l&#39;équipe Data Convergence chez OVH. Je travaille sur la conception et le développement de produits autour de l&amp;rsquo;ingestion de données, de data lakes et des plateformes d&amp;rsquo;analytics. Spécialisé sur la partie backend, je suis plutôt passionné par la conception d&amp;rsquo;API reponsives, la modularité et la performance. J&amp;rsquo;essaie également de partager ces passions avec des étudiants en tant qu&amp;rsquo;intervenant à l&amp;rsquo;Université de Bretagne Occidentale où je donne quelques cours.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/youri_bonnaffe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/youri_bonnaffe/</guid>
-      <description>Développeur passionné je travaille chez Instant System, un éditeur dans la mobilité urbaine, un domaine dans lequel je m&amp;rsquo;éclate et qui bouge ! 🤪
+      <description>Développeur passionné je travaille chez Instant System, un éditeur dans la mobilité urbaine, un domaine dans lequel je m&#39;éclate et qui bouge ! 🤪
 Habitué de la ligne de commande j&amp;rsquo;aime bien automatiser les choses alors forcément les tests, l&amp;rsquo;intégration continue, l&amp;rsquo;administration système sont des sujets qui m&amp;rsquo;intéressent.
 Et parce qu&amp;rsquo;il faut un esprit sain dans un corps sain, je cours (un peu, beaucoup, passionnément) au milieu des beaux paysages de la Côte d&amp;rsquo;Azur.</description>
     </item>
@@ -571,7 +590,7 @@ Mais l’absence de support homogène entre les navigateurs et le manque de pers
       <description>Court talk de découverte présentant l&amp;rsquo;outil Profiler de l&amp;rsquo;IDE Android Studio.
 Après une introduction d&amp;rsquo;utilisation de l&amp;rsquo;outil, je propose de réaliser une demo live permettant d&amp;rsquo;expliquer comment utiliser les différents outils proposés par le Profiler et comment configurer son application pour réaliser un profiling avancé.
 Nous verrons en détails les quatre outils de profiling :
- L&amp;rsquo;utilisation du CPU L&amp;rsquo;utilisation de la mémoire vive Les requêtes réseau effectuées La consommation d&amp;rsquo;énergie  </description>
+ L&amp;rsquo;utilisation du CPU L&amp;rsquo;utilisation de la mémoire vive Les requêtes réseau effectuées La consommation d&#39;énergie  </description>
     </item>
     
     <item>
@@ -591,7 +610,7 @@ Prérequis : avoir son ordinateur, être à l’aise avec le shell et connaître
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/partners/silver/apside/</guid>
-      <description>APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l&amp;rsquo;écosystème IT sur leurs projets innovants. Tous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ &amp;hellip; Nous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d&amp;rsquo;architecture, produits complets, sujets porteurs et utiles&amp;hellip; C&amp;rsquo;est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.</description>
+      <description>APSIDE est une société de conseil en ingénierie qui accompagne tous les acteurs de l&#39;écosystème IT sur leurs projets innovants. Tous nos ingénieurs ont leur spécialité : JAVA, JS, BDD, C#, PHP, C++ &amp;hellip; Nous sélectionnons rigoureusement les projets sur lesquels peuvent intervenir nos ingénieurs : caractère innovant, phase d&amp;rsquo;architecture, produits complets, sujets porteurs et utiles&amp;hellip; C&amp;rsquo;est ce qui rend totalement satisfaits de leur mission plus de 96% de nos ingénieurs.</description>
     </item>
     
     <item>
@@ -661,6 +680,15 @@ Mais alors pourquoi pas gérer nos mots de passe comme du code ?</description>
     </item>
     
     <item>
+      <title>Change Data Capture in production</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</guid>
+      <description>OVH, 18 ans d’existence, est aujourd’hui le 1er cloud provider européen. Pour suivre et piloter son business, OVH a mis en place un datalake interne. L’idée étant de centraliser l’ensemble des données issues de plusieurs milliers de tables localisées dans ses différents datacentres pour ensuite générer les KPIs utiles au business. Le point essentiel est que ces données doivent être mises à jour continuellement. Cette présentation décrit le pipeline actuellement en production et les différentes itérations.</description>
+    </item>
+    
+    <item>
       <title>Code d&#39;Armor</title>
       <link>https://devfest.duboutdumonde.bzh/partners/communautes/codedarmor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -685,7 +713,8 @@ Mais alors pourquoi pas gérer nos mots de passe comme du code ?</description>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/comment_reussir_sa_premiere_contribution_open_source/</guid>
       <description>Les projets open source ont investi notre vie de développeur : que cela soit au travers des frameworks, des librairies, des IDE ou de documentation, ce sont des outils qui améliorent notre travail au quotidien. De nombreuses opportunités s&amp;rsquo;offrent à nous pour participer à leur essor et ces opportunités sont toutes à notre portée.
-Je vous propose de découvrir les clefs pour réussir votre première contribution open source : - quelles sont les règles qui régissent ces projets ?</description>
+Je vous propose de découvrir les clefs pour réussir votre première contribution open source :
+ quelles sont les règles qui régissent ces projets ?</description>
     </item>
     
     <item>
@@ -706,7 +735,7 @@ Avec quelques petits exemples, je vais vous montrez ce que peut apporter le data
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud/</guid>
       <description>Tous les cloud provider promettent la même chose :
-&amp;ldquo;t’inquiètes ma caille, ton app elle va jamais tomber et tu pourras scale autant que tu veux !&amp;rdquo;
+&amp;ldquo;t’inquiètes ma caille, ton app elle va jamais tomber et tu pourras scale autant que tu veux !&amp;quot;
 Ok c&amp;rsquo;est cool mais avant d&amp;rsquo;en arriver là il faut que je réussisse à la mettre en ligne ma f*ck*ng app ?
 Et puis je ne suis pas expert cloud moi, je veux juste mettre en ligne mon app&amp;hellip;.
 En plus Gérard veut que ce soit fait pour hier !</description>
@@ -718,8 +747,9 @@ En plus Gérard veut que ce soit fait pour hier !</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/compiler_driven_onboarding___open_source_in_elm/</guid>
-      <description>De la première &amp;ldquo;good first issue&amp;rdquo; résolue jusqu&amp;rsquo;à une PR conséquente, je raconterai comment j&amp;rsquo;ai intégré le projet open source elm-in-elm (https://github.com/elm-in-elm/compiler).
-En suivant pas à pas mon expérience, nous verrons comment : * simplifier des tests ; * ajouter de nouvelles de fonctionnalités sans se perdre dans le code ; * éviter un bug sournois avant même de compiler ; * détecter un bug alors que &amp;ldquo;tout semble marcher&amp;rdquo; ; * modifier le code pour que les nouveaux contributeurs ne tombent pas dans le même piège que moi ; * aider les nouveaux contributeurs à participer au projet.</description>
+      <description>De la première &amp;ldquo;good first issue&amp;rdquo; résolue jusqu&#39;à une PR conséquente, je raconterai comment j&amp;rsquo;ai intégré le projet open source elm-in-elm (https://github.com/elm-in-elm/compiler).
+En suivant pas à pas mon expérience, nous verrons comment :
+ simplifier des tests ; ajouter de nouvelles de fonctionnalités sans se perdre dans le code ; éviter un bug sournois avant même de compiler ; détecter un bug alors que &amp;ldquo;tout semble marcher&amp;rdquo; ; modifier le code pour que les nouveaux contributeurs ne tombent pas dans le même piège que moi ; aider les nouveaux contributeurs à participer au projet.</description>
     </item>
     
     <item>
@@ -747,7 +777,8 @@ Dans ce talk, nous vous montrerons grâce à des exemples comment l’informatio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</guid>
-      <description>Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l&amp;rsquo;utilisation quotidienne peut être assez tricky. - Souhaitez-vous pouvoir créer des images plus petites, plus sûres et plus rapides à compiler ? - Avez-vous des difficultés avec les descripteurs Kubernetes YAML et les lignes de commande sans fin ? - Quand tout va mal, comment déboguez-vous un conteneur ? Et plusieurs pods ?</description>
+      <description>Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l&amp;rsquo;utilisation quotidienne peut être assez tricky.
+ Souhaitez-vous pouvoir créer des images plus petites, plus sûres et plus rapides à compiler ? Avez-vous des difficultés avec les descripteurs Kubernetes YAML et les lignes de commande sans fin ? Quand tout va mal, comment déboguez-vous un conteneur ? Et plusieurs pods ? Souhaitez vous connaître des petits tips et outils pratiques ?</description>
     </item>
     
     <item>
@@ -777,7 +808,7 @@ Autant de questions que vous vous êtes sans doute déjà posées.</description>
       <guid>https://devfest.duboutdumonde.bzh/sessions/elasticsearch__la_colonne_vertebrale_de_mon_projet_data/</guid>
       <description>La mise en place d’un projet de management de données passe souvent par cette question cruciale : Comment stocker mes données ?
 Mais que se passe-t-il lorsque je veux pouvoir interagir avec toutes ces données ? Nous avons pris le parti d&amp;rsquo;utiliser à fond ElasticSearch pour tout ce qui touche de près ou de loin à l’utilisation de nos données.
-Qu&amp;rsquo;il s&amp;rsquo;agisse de la récupération d&amp;rsquo;une simple entité, de la pagination d&amp;rsquo;une liste de milliers d&amp;rsquo;éléments, ou d&amp;rsquo;une recherche libre par l&amp;rsquo;utilisateur au travers de toutes les entités, nos applications exploitent les API d&amp;rsquo;Elasticsearch.</description>
+Qu&amp;rsquo;il s&amp;rsquo;agisse de la récupération d&amp;rsquo;une simple entité, de la pagination d&amp;rsquo;une liste de milliers d&#39;éléments, ou d&amp;rsquo;une recherche libre par l&amp;rsquo;utilisateur au travers de toutes les entités, nos applications exploitent les API d&amp;rsquo;Elasticsearch.</description>
     </item>
     
     <item>
@@ -786,7 +817,7 @@ Qu&amp;rsquo;il s&amp;rsquo;agisse de la récupération d&amp;rsquo;une simple e
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf/</guid>
-      <description>Supposons que vous développiez une application en Java : comment détecter rapidement la présence d&amp;rsquo;importants goulots d&amp;rsquo;étranglement de performance (bottlenecks) ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Comment se rendre compte rapidement que votre application va consommer énormément de mémoire ? Nous allons montrer comment la librairie de test QuickPerf peut vous aider à répondre à ces questions.</description>
+      <description>Supposons que vous développiez une application en Java : comment détecter rapidement la présence d&amp;rsquo;importants goulots d&#39;étranglement de performance (bottlenecks) ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Comment se rendre compte rapidement que votre application va consommer énormément de mémoire ?Nous allons montrer comment la librairie de test QuickPerf peut vous aider à répondre à ces questions.</description>
     </item>
     
     <item>
@@ -806,7 +837,7 @@ Ce genre de schéma arrive pour pleins de raisons, qu’elles soient techniques,
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/faire_du_hard_en_soft/</guid>
       <description>Lorsqu&amp;rsquo;on souhaite designer sa propre puce, on est forcément confronté à l&amp;rsquo;utilisation d&amp;rsquo;un langage de description matérielle type Verilog ou VHDL (mais ce ne sont pas les seuls !) pour concevoir un système pour un circuit de type FPGA.
-Cependant, il existe des méthodes qui permettent de générer un système matériel directement en Python ! Ce qui permet aux &amp;ldquo;softeux&amp;rdquo; de pouvoir générer un processeur complet avec toute la couche logicielle ajoutée (du bootloader jusqu&amp;rsquo;à un petit Linux) sans mettre les mains dans le cambouis matériel.</description>
+Cependant, il existe des méthodes qui permettent de générer un système matériel directement en Python ! Ce qui permet aux &amp;ldquo;softeux&amp;rdquo; de pouvoir générer un processeur complet avec toute la couche logicielle ajoutée (du bootloader jusqu&#39;à un petit Linux) sans mettre les mains dans le cambouis matériel.</description>
     </item>
     
     <item>
@@ -825,7 +856,7 @@ Cependant, il existe des méthodes qui permettent de générer un système maté
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</guid>
       <description>Flutter est un framework permettant de générer à partir d&amp;rsquo;une seule base de code des applications pour les mobiles (Android/iOS), le desktop (Windows/Mac/Linux) &amp;hellip; mais aussi le Web !
-Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. Nous reviendrons dans ce talk sur ce qu&amp;rsquo;il est possible de faire aujourd&amp;rsquo;hui avec cette technologie (possibilités et limitations).</description>
+Annoncé en mai 2019, Flutter Web reste encore à l&#39;état de preview. Nous reviendrons dans ce talk sur ce qu&amp;rsquo;il est possible de faire aujourd&amp;rsquo;hui avec cette technologie (possibilités et limitations).</description>
     </item>
     
     <item>
@@ -874,9 +905,9 @@ Les raisons évoquées sont souvent les mêmes, tels des stéréotypes :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/graalvm__la_vm_polyglotte/</guid>
-      <description>“Cette librairie n&amp;rsquo;est pas disponible dans mon langage de programmation. Je dois la réécrire.&amp;ldquo;
-&amp;ldquo;Ce langage conviendrait parfaitement à mon problème, mais nous ne pouvons pas l&amp;rsquo;exécuter dans notre environnement.&amp;ldquo;
-&amp;ldquo;Ce problème est déjà résolu dans tel ou tel langage, mais ce langage est trop lent.&amp;ldquo;
+      <description>“Cette librairie n&amp;rsquo;est pas disponible dans mon langage de programmation. Je dois la réécrire.&amp;rdquo;
+&amp;ldquo;Ce langage conviendrait parfaitement à mon problème, mais nous ne pouvons pas l&amp;rsquo;exécuter dans notre environnement.&amp;rdquo;
+&amp;ldquo;Ce problème est déjà résolu dans tel ou tel langage, mais ce langage est trop lent.&amp;rdquo;
 Oyez , oyez Développeurs! Plus d’inquiétude, GraalVM arrive à la rescousse!</description>
     </item>
     
@@ -896,7 +927,8 @@ Oyez , oyez Développeurs! Plus d’inquiétude, GraalVM arrive à la rescousse!
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</guid>
       <description>Not sure if I should write in English or French here. Website is in english so I&amp;rsquo;ll go for that but I can do all in French as well :). I studied in Brest so I&amp;rsquo;d be happy to do a demo there again!
-I think this talk definitely matches the event for several reasons: * Voice assistants are coming, and they will be part of our future! Kids are already used to using them daily.</description>
+I think this talk definitely matches the event for several reasons:
+ Voice assistants are coming, and they will be part of our future! Kids are already used to using them daily.</description>
     </item>
     
     <item>
@@ -935,7 +967,7 @@ Côté consommateur de Webhook, cela semble plutôt facile à développer… Cô
       <guid>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</guid>
       <description>Le format d&amp;rsquo;instruction binaire WebAssembly a ouvert la porte des navigateurs à tous les langages de haut-niveaux en leur fournissant une cible de compilation portable prise en charge depuis 2017 par les principaux navigateurs web.
 La communauté des développeurs .NET Core et ASP .NET Core s&amp;rsquo;est engouffrée dans la brèche pour respecter la promesse initiale de .NET : une même filière de développement permettant d&amp;rsquo;adresser tous les besoins.
-Les SPA étaient, jusqu&amp;rsquo;à présent, réservées aux développeurs Javascript et Typescript.</description>
+Les SPA étaient, jusqu&#39;à présent, réservées aux développeurs Javascript et Typescript.</description>
     </item>
     
     <item>
@@ -982,8 +1014,8 @@ Le plus dur pour faire de l&amp;rsquo;Open Source en entreprise, au delà de con
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/_la_jungle_des_licences_open_source/</guid>
-      <description>Vous êtes vous déjà retrouvé dans une de ces situations ? * Vous avez ajouté une nouvelle dépendance à votre projet sans vérifier la licence et donc sans en connaître les impacts. * Vous avez voulu partager votre projet en Open Source mais ne saviez pas quelle licence utiliser. * Vous avez essayé de comprendre les licences Open Source mais vous vous êtes senti perdu.
-Si oui, alors je vous propose de mettre votre tenue d&amp;rsquo;aventurier et de partir à la découverte des Licences Open Source.</description>
+      <description>Vous êtes vous déjà retrouvé dans une de ces situations ?
+ Vous avez ajouté une nouvelle dépendance à votre projet sans vérifier la licence et donc sans en connaître les impacts. Vous avez voulu partager votre projet en Open Source mais ne saviez pas quelle licence utiliser. Vous avez essayé de comprendre les licences Open Source mais vous vous êtes senti perdu.  Si oui, alors je vous propose de mettre votre tenue d&amp;rsquo;aventurier et de partir à la découverte des Licences Open Source.</description>
     </item>
     
     <item>
@@ -1044,7 +1076,7 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</guid>
-      <description>Initialement abordé sous un angle technique, le monitoring d&amp;rsquo;API gagne à évoluer en maturité pour devenir pourvoyeur d&amp;rsquo;informations à caractère stratégique. Dans un contexte de déploiement d&amp;rsquo;APIs REST, cette présentation passera en revue différentes façons de monitorer des APIs. Sans avoir la prétention d&amp;rsquo;être exhaustif sur les techniques à mettre en œuvre, nous montrerons que le choix des métriques est crucial, tout autant que l&amp;rsquo;exploitation qui est en faite. Ainsi, la collecte de métriques ne sera plus uniquement un enjeu IT, mais également business dans une démarche d&amp;rsquo;amélioration de l&amp;rsquo;expérience client.</description>
+      <description>Initialement abordé sous un angle technique, le monitoring d&amp;rsquo;API gagne à évoluer en maturité pour devenir pourvoyeur d&amp;rsquo;informations à caractère stratégique. Dans un contexte de déploiement d&amp;rsquo;APIs REST, cette présentation passera en revue différentes façons de monitorer des APIs. Sans avoir la prétention d&#39;être exhaustif sur les techniques à mettre en œuvre, nous montrerons que le choix des métriques est crucial, tout autant que l&amp;rsquo;exploitation qui est en faite. Ainsi, la collecte de métriques ne sera plus uniquement un enjeu IT, mais également business dans une démarche d&amp;rsquo;amélioration de l&amp;rsquo;expérience client.</description>
     </item>
     
     <item>
@@ -1109,7 +1141,7 @@ This session will cover the basics of the ExoPlayer such as how to play a video 
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/pourquoi_l_avenir_du_numerique_est__responsable/</guid>
       <description>Les services numériques doivent nous aider. Ils doivent nous permettre de comprendre, d’appréhender et de résoudre les problématiques planétaire que nous avons et qui se multiplient. Malheureusement, nous n&amp;rsquo;utilisons pas la puissance de cette technologie au mieux ! Le numérique devient de plus en plus gras. Les obésiciels sont devenus monnaie courante et nous forcent; pour continuer de les utiliser, à changer de téléphone, de PC&amp;hellip;
-Nos services numérique sont (très) loin d&amp;rsquo;être éco-conçus au low-tech : ils sont de plus en plus énergivores, consomment de plus en plus de ressources, créent de + en + de disparités, de problèmes éthiques de problèmes d’accessibilités &amp;hellip;</description>
+Nos services numérique sont (très) loin d&#39;être éco-conçus au low-tech : ils sont de plus en plus énergivores, consomment de plus en plus de ressources, créent de + en + de disparités, de problèmes éthiques de problèmes d’accessibilités &amp;hellip;</description>
     </item>
     
     <item>
@@ -1190,7 +1222,7 @@ Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces der
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_capabilities_project__better__smoother__sexier/</guid>
-      <description>Fonction Offline: ✓ Fonction Installable: ✓ Accéder aux contacts : ✓ QUOI ? on peut accéder aux contacts ? Ecrire sur le file syste: ✓ NAN, Sérieux, ça aussi?  Vous l&amp;rsquo;avez compris, dans ce talk, on a pour objectif de vous présenter toutes les nouveautés de la plateformes web qui étaient jusqu&amp;rsquo;à aujourd&amp;rsquo;hui réservées au développement natif.</description>
+      <description>Fonction Offline: ✓ Fonction Installable: ✓ Accéder aux contacts : ✓ QUOI ? on peut accéder aux contacts ? Ecrire sur le file syste: ✓ NAN, Sérieux, ça aussi?  Vous l&amp;rsquo;avez compris, dans ce talk, on a pour objectif de vous présenter toutes les nouveautés de la plateformes web qui étaient jusqu&#39;à aujourd&amp;rsquo;hui réservées au développement natif.</description>
     </item>
     
     <item>
@@ -1201,8 +1233,8 @@ Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces der
       <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_is_on____f_i_r_e__________conference/</guid>
       <description>La Web platform évolue en permanence ! Et ça fait 4 ans qu&amp;rsquo;on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable &amp;amp; Engaging !
 Il est temps de se mettre à jour ! Prenons quelques minutes pour :
- faire le point sur les tous derniers drafts du W3C, WICG et WHATWG
- les démontrer dans le browser</description>
+  faire le point sur les tous derniers drafts du W3C, WICG et WHATWG
+  les démontrer dans le browser</description>
     </item>
     
     <item>
@@ -1212,7 +1244,7 @@ Il est temps de se mettre à jour ! Prenons quelques minutes pour :
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</guid>
       <description>Consommer une API REST fait désormais partie de notre quotidien de développeur. Que ce soit pour appeler un composant de notre belle architecture micro-services, un service externe hébergé par un tiers, réaliser un appel HTTP est plus que courant dans nos applications. Nous avons à disposition pléthore de ressources pour bien concevoir son API REST mais comment faisons-nous pour en consommer une de manière efficace ?
- Cela commence souvent par la découverte d&amp;rsquo;une nouvelle API.</description>
+  Cela commence souvent par la découverte d&amp;rsquo;une nouvelle API.</description>
     </item>
     
     <item>
@@ -1248,7 +1280,7 @@ Il est temps de se mettre à jour ! Prenons quelques minutes pour :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</guid>
-      <description>Le stagiaire a encore frappé ! C&amp;rsquo;était pourtant simple de passer le montant de la transaction en premier argument et le timestamp en second, non ? Et du coup, vous avez un problème à 1530795303€&amp;hellip;
+      <description>Le stagiaire a encore frappé ! C&#39;était pourtant simple de passer le montant de la transaction en premier argument et le timestamp en second, non ? Et du coup, vous avez un problème à 1530795303€&amp;hellip;
 Mais&amp;hellip; est-ce vraiment sa faute ? Est-ce qu&amp;rsquo;on n&amp;rsquo;aurait pas dû empêcher que cette erreur puisse même se produire ?
 Je vous affirme au contraire qu&amp;rsquo;il est de notre devoir de viser le zéro bugs !</description>
     </item>

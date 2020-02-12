@@ -38,7 +38,7 @@ Au cours de cette session, nous vous proposons de découvrir ARCore, via l’uti
       <description>Court talk de découverte présentant l&amp;rsquo;outil Profiler de l&amp;rsquo;IDE Android Studio.
 Après une introduction d&amp;rsquo;utilisation de l&amp;rsquo;outil, je propose de réaliser une demo live permettant d&amp;rsquo;expliquer comment utiliser les différents outils proposés par le Profiler et comment configurer son application pour réaliser un profiling avancé.
 Nous verrons en détails les quatre outils de profiling :
- L&amp;rsquo;utilisation du CPU L&amp;rsquo;utilisation de la mémoire vive Les requêtes réseau effectuées La consommation d&amp;rsquo;énergie  </description>
+ L&amp;rsquo;utilisation du CPU L&amp;rsquo;utilisation de la mémoire vive Les requêtes réseau effectuées La consommation d&#39;énergie  </description>
     </item>
     
     <item>
@@ -48,7 +48,7 @@ Nous verrons en détails les quatre outils de profiling :
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/faire_du_hard_en_soft/</guid>
       <description>Lorsqu&amp;rsquo;on souhaite designer sa propre puce, on est forcément confronté à l&amp;rsquo;utilisation d&amp;rsquo;un langage de description matérielle type Verilog ou VHDL (mais ce ne sont pas les seuls !) pour concevoir un système pour un circuit de type FPGA.
-Cependant, il existe des méthodes qui permettent de générer un système matériel directement en Python ! Ce qui permet aux &amp;ldquo;softeux&amp;rdquo; de pouvoir générer un processeur complet avec toute la couche logicielle ajoutée (du bootloader jusqu&amp;rsquo;à un petit Linux) sans mettre les mains dans le cambouis matériel.</description>
+Cependant, il existe des méthodes qui permettent de générer un système matériel directement en Python ! Ce qui permet aux &amp;ldquo;softeux&amp;rdquo; de pouvoir générer un processeur complet avec toute la couche logicielle ajoutée (du bootloader jusqu&#39;à un petit Linux) sans mettre les mains dans le cambouis matériel.</description>
     </item>
     
     <item>

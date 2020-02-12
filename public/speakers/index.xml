@@ -67,6 +67,15 @@ Blog: https://blog.touret.info</description>
     
     <item>
       <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/david_morin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/david_morin/</guid>
+      <description>Je suis devops Big Data dans l&#39;équipe Data Convergence chez OVH. Je travaille sur la mise en oeuvre d&amp;rsquo;architectures pour les produits OVH autour de la donnée (ingestion, analyse, stockage, traitement). J&amp;rsquo;ai découvert le Big Data avec Hadoop il y a 6 ans et je suis tombé sous le charme de son écosystème dynamique. Depuis lors, j&amp;rsquo;ai mis en oeuvre différents types de systèmes traitant de la donnée avec de nombreux challenges techniques qui en découlent.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/edouard_marquez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -100,7 +109,7 @@ Depuis il ne cesse de crier son amour pour Flutter, en ayant notamment cofondé 
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/erwann_thebault/</guid>
       <description>Erwann Thebault est consultant à Zenika Rennes. Il participe à la conception et réalisation de projets backend autour de Java, Spring Boot, ELK,&amp;hellip; .
-Geek, il s&amp;rsquo;est interessé a l&amp;rsquo;évolutions des object connectés, puis à l&amp;rsquo;emergence de l&amp;rsquo;IOT : le web, ce n&amp;rsquo;est plus seulement un navigateur.</description>
+Geek, il s&amp;rsquo;est interessé a l&#39;évolutions des object connectés, puis à l&amp;rsquo;emergence de l&amp;rsquo;IOT : le web, ce n&amp;rsquo;est plus seulement un navigateur.</description>
     </item>
     
     <item>
@@ -195,7 +204,7 @@ Organisateur de la conférence Riviera DEV et du meetup JSSophia sur Sophia-Anti
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/jeremy_hennart/</guid>
-      <description>Program Manager, Scrum Master, Facilitateur, ou encore chef de projet. J&amp;rsquo;accompagne des équipes techniques dans mon quotidien. Je m&amp;rsquo;applique à l&amp;rsquo;orchestration des projets avec l&amp;rsquo;idéologie Agile. Les challenges, l&amp;rsquo;effort et l&amp;rsquo;esprit d&amp;rsquo;équipe m&amp;rsquo;accompagnent dans mon quotidien. #Scrum, #ScrumMaster #Kaizen, #Kanban #Agile #BonSensPaysan! #Kintsugi</description>
+      <description>Program Manager, Scrum Master, Facilitateur, ou encore chef de projet. J&amp;rsquo;accompagne des équipes techniques dans mon quotidien. Je m&amp;rsquo;applique à l&amp;rsquo;orchestration des projets avec l&amp;rsquo;idéologie Agile. Les challenges, l&amp;rsquo;effort et l&amp;rsquo;esprit d&#39;équipe m&amp;rsquo;accompagnent dans mon quotidien. #Scrum, #ScrumMaster #Kaizen, #Kanban #Agile #BonSensPaysan! #Kintsugi</description>
     </item>
     
     <item>
@@ -224,7 +233,7 @@ Il passe le reste de son temps libre à refuser les cookies sur les sites web qu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/juliane_blier/</guid>
-      <description>Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. Cela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019, et une présentée seule au DevFest Toulouse 2019. Et je m&amp;rsquo;épanouis totalement dans cette nouvelle activité !</description>
+      <description>Développeuse Web depuis presque 3 ans, je pratique Vue.js et Koa.js au quotidien chez SchoolMouv à Toulouse. Cela fait maintenant trois conférences que je coprésente aux DevFest de Toulouse, de Brest puis à MiXiT 2019, et une présentée seule au DevFest Toulouse 2019. Et je m&#39;épanouis totalement dans cette nouvelle activité !</description>
     </item>
     
     <item>
@@ -280,7 +289,7 @@ Addict of agility and DevOps, some of my missions were to help teams to follow t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/marie_viley/</guid>
-      <description>Recruteuse chez Zenika, je me suis toujours intéressée à la communication non verbale et aux mécanismes d’influence et de prise de décision. Ce qui me motive, c’est de comprendre au mieux les gens et de pouvoir échanger avec eux. Fan des conférences TED et #TRU je suis constamment en veille sur le recrutement, le RGPD et les nouveautés tech. J’aime également le métal, la bière et Dikkenek ^^</description>
+      <description>Recruteuse chez Zenika, je me suis toujours intéressée à la communication non verbale et aux mécanismes d’influence et de prise de décision. Ce qui me motive, c’est de comprendre au mieux les gens et de pouvoir échanger avec eux. Fan des conférences TED et [#TRU] (https://www.linkhumans.fr/tru/) je suis constamment en veille sur le recrutement, le RGPD et les nouveautés tech. J’aime également le métal, la bière et Dikkenek ^^</description>
     </item>
     
     <item>
@@ -291,7 +300,8 @@ Addict of agility and DevOps, some of my missions were to help teams to follow t
       <guid>https://devfest.duboutdumonde.bzh/speakers/maxime_lumeau/</guid>
       <description>FRENCH Je développe professionnellement des applications mobiles Android et iOS depuis 2015.
 Je donne aussi des conférences en université et meetups autour des sujets mobiles.
-En tant que speaker: - Université de Toulouse Jean Jaurès - 2016, 2017 - Conférence &amp;ldquo;Développement industrialisé d&amp;rsquo;applications mobiles&amp;rdquo; (3h) - Meetup GDG Android Nantes - Novembre 2018 - &amp;ldquo;Android Navigation Component&amp;rdquo; (40mn) - Meetup GDG Android Nantes - Mai 2019 - &amp;ldquo;Natif, cross-platform, ou les deux ?</description>
+En tant que speaker:
+ Université de Toulouse Jean Jaurès - 2016, 2017 - Conférence &amp;ldquo;Développement industrialisé d&amp;rsquo;applications mobiles&amp;rdquo; (3h) Meetup GDG Android Nantes - Novembre 2018 - &amp;ldquo;Android Navigation Component&amp;rdquo; (40mn) Meetup GDG Android Nantes - Mai 2019 - &amp;ldquo;Natif, cross-platform, ou les deux ?</description>
     </item>
     
     <item>
@@ -301,7 +311,7 @@ En tant que speaker: - Université de Toulouse Jean Jaurès - 2016, 2017 - Conf�
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/maxime_odye/</guid>
       <description>Maxime, consultant back-end et membre de la direction technique chez Zenika Rennes.
-Passionné techniquement, j&amp;rsquo;aime découvrir et re-découvrir les différentes technologies gravitant autour de l&amp;rsquo;écosystème Java. Amateur des différentes communautés (Jug, BreizhCamp, AgileTour), j&amp;rsquo;estime que le partage technique, et non technique, dans le secteur de l&amp;rsquo;IT est quelque chose d&amp;rsquo;extraordinaire.
+Passionné techniquement, j&amp;rsquo;aime découvrir et re-découvrir les différentes technologies gravitant autour de l&#39;écosystème Java. Amateur des différentes communautés (Jug, BreizhCamp, AgileTour), j&amp;rsquo;estime que le partage technique, et non technique, dans le secteur de l&amp;rsquo;IT est quelque chose d&amp;rsquo;extraordinaire.
 Découverte, progression et approfondissement, l&amp;rsquo;enrichissement personnel est grand et essentiel pour nous faire tous progresser. Je suis formateur Elasticsearch et Elastic Stack, certified Spring Core by Pivotal et organisateur de l&amp;rsquo;Agile Tour Rennes</description>
     </item>
     
@@ -330,7 +340,7 @@ Je suis actuellement Tech Lead Cloud chez Lectra, numéro un mondial des solutio
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/nicolas_tisserand/</guid>
-      <description>Je travaille pour et dans le groupe Crédit Mutuel Arkéa depuis l&amp;rsquo;an 2000. Initialement développeur n-tiers, certifié Java, j&amp;rsquo;ai pris progressivement la responsabilité d&amp;rsquo;architectures toujours plus complexes. Depuis maintenant 3 ans, j&amp;rsquo;évolue sur le vaste périmètre de l&amp;rsquo;API Management en adressant toutes les composantes de ce métier : conception, sécurisation, test, intégration continue, monitoring, exploitation d&amp;rsquo;une gateway d&amp;rsquo;API, formation des utilisateurs, &amp;hellip;</description>
+      <description>Je travaille pour et dans le groupe Crédit Mutuel Arkéa depuis l&amp;rsquo;an 2000. Initialement développeur n-tiers, certifié Java, j&amp;rsquo;ai pris progressivement la responsabilité d&amp;rsquo;architectures toujours plus complexes. Depuis maintenant 3 ans, j&#39;évolue sur le vaste périmètre de l&amp;rsquo;API Management en adressant toutes les composantes de ce métier : conception, sécurisation, test, intégration continue, monitoring, exploitation d&amp;rsquo;une gateway d&amp;rsquo;API, formation des utilisateurs, &amp;hellip;</description>
     </item>
     
     <item>
@@ -397,11 +407,11 @@ J&amp;rsquo;ai rejoint les rangs de Stack Labs en 2018, une petite structure tou
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/robin_caroff/</guid>
-      <description> Technical Lead at Resonantes (http://association.resonantes.fr/).
+      <description>Technical Lead at Resonantes (http://association.resonantes.fr/).
 Former Co-Founder and Director of the mobile application agency Toki (www.toki.agency).
 Mobile developer since 2011, I am also Co-Founder and Organizer of the GDG Nantes Android (https://www.meetup.com/fr-FR/gdg_nantes_android/).
 Technology enthusiast, highly convinced that technology and mobile devices can improve productivity for small as well as for big companies.
-Links  Twitter Profile Linkedin Profile Talks (Speaker Deck)  </description>
+Links  [Twitter Profile] (https://twitter.com/RobinCaroff) [Linkedin Profile] (https://www.linkedin.com/in/robincaroff/) [Talks (Speaker Deck)] (https://speakerdeck.com/robincaroff)  </description>
     </item>
     
     <item>
@@ -497,11 +507,20 @@ Speaker at Devoxx France 2018 =&amp;gt; &amp;ldquo;De la musique collaborative a
     
     <item>
       <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/yann_pauly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/yann_pauly/</guid>
+      <description>Je suis Senior Software Engineer au sein de l&#39;équipe Data Convergence chez OVH. Je travaille sur la conception et le développement de produits autour de l&amp;rsquo;ingestion de données, de data lakes et des plateformes d&amp;rsquo;analytics. Spécialisé sur la partie backend, je suis plutôt passionné par la conception d&amp;rsquo;API reponsives, la modularité et la performance. J&amp;rsquo;essaie également de partager ces passions avec des étudiants en tant qu&amp;rsquo;intervenant à l&amp;rsquo;Université de Bretagne Occidentale où je donne quelques cours.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/youri_bonnaffe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/speakers/youri_bonnaffe/</guid>
-      <description>Développeur passionné je travaille chez Instant System, un éditeur dans la mobilité urbaine, un domaine dans lequel je m&amp;rsquo;éclate et qui bouge ! 🤪
+      <description>Développeur passionné je travaille chez Instant System, un éditeur dans la mobilité urbaine, un domaine dans lequel je m&#39;éclate et qui bouge ! 🤪
 Habitué de la ligne de commande j&amp;rsquo;aime bien automatiser les choses alors forcément les tests, l&amp;rsquo;intégration continue, l&amp;rsquo;administration système sont des sujets qui m&amp;rsquo;intéressent.
 Et parce qu&amp;rsquo;il faut un esprit sain dans un corps sain, je cours (un peu, beaucoup, passionnément) au milieu des beaux paysages de la Côte d&amp;rsquo;Azur.</description>
     </item>

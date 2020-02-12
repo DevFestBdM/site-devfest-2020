@@ -28,7 +28,7 @@ Prérequis : avoir son ordinateur, être à l’aise avec le shell et connaître
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/comment_ca_se_passe_pour_mettre_en_ligne_une_app_quand_on_commence_avec_le_cloud/</guid>
       <description>Tous les cloud provider promettent la même chose :
-&amp;ldquo;t’inquiètes ma caille, ton app elle va jamais tomber et tu pourras scale autant que tu veux !&amp;rdquo;
+&amp;ldquo;t’inquiètes ma caille, ton app elle va jamais tomber et tu pourras scale autant que tu veux !&amp;quot;
 Ok c&amp;rsquo;est cool mais avant d&amp;rsquo;en arriver là il faut que je réussisse à la mettre en ligne ma f*ck*ng app ?
 Et puis je ne suis pas expert cloud moi, je veux juste mettre en ligne mon app&amp;hellip;.
 En plus Gérard veut que ce soit fait pour hier !</description>
@@ -40,7 +40,8 @@ En plus Gérard veut que ce soit fait pour hier !</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/docker__kubernetes___istio___tips__tricks___tools/</guid>
-      <description>Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l&amp;rsquo;utilisation quotidienne peut être assez tricky. - Souhaitez-vous pouvoir créer des images plus petites, plus sûres et plus rapides à compiler ? - Avez-vous des difficultés avec les descripteurs Kubernetes YAML et les lignes de commande sans fin ? - Quand tout va mal, comment déboguez-vous un conteneur ? Et plusieurs pods ?</description>
+      <description>Il ne fait aucun doute que Docker et Kubernetes sont omniprésents dans le nouveau monde des microservices. Mais l&amp;rsquo;utilisation quotidienne peut être assez tricky.
+ Souhaitez-vous pouvoir créer des images plus petites, plus sûres et plus rapides à compiler ? Avez-vous des difficultés avec les descripteurs Kubernetes YAML et les lignes de commande sans fin ? Quand tout va mal, comment déboguez-vous un conteneur ? Et plusieurs pods ? Souhaitez vous connaître des petits tips et outils pratiques ?</description>
     </item>
     
     <item>
@@ -50,7 +51,8 @@ En plus Gérard veut que ce soit fait pour hier !</description>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/hey_google__send_20__to_mum____live_coding__openbanking__voice_assistants_and_its_ethics/</guid>
       <description>Not sure if I should write in English or French here. Website is in english so I&amp;rsquo;ll go for that but I can do all in French as well :). I studied in Brest so I&amp;rsquo;d be happy to do a demo there again!
-I think this talk definitely matches the event for several reasons: * Voice assistants are coming, and they will be part of our future! Kids are already used to using them daily.</description>
+I think this talk definitely matches the event for several reasons:
+ Voice assistants are coming, and they will be part of our future! Kids are already used to using them daily.</description>
     </item>
     
     <item>

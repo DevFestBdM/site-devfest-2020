@@ -39,8 +39,9 @@ Avec quelques petits exemples, je vais vous montrez ce que peut apporter le data
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/compiler_driven_onboarding___open_source_in_elm/</guid>
-      <description>De la première &amp;ldquo;good first issue&amp;rdquo; résolue jusqu&amp;rsquo;à une PR conséquente, je raconterai comment j&amp;rsquo;ai intégré le projet open source elm-in-elm (https://github.com/elm-in-elm/compiler).
-En suivant pas à pas mon expérience, nous verrons comment : * simplifier des tests ; * ajouter de nouvelles de fonctionnalités sans se perdre dans le code ; * éviter un bug sournois avant même de compiler ; * détecter un bug alors que &amp;ldquo;tout semble marcher&amp;rdquo; ; * modifier le code pour que les nouveaux contributeurs ne tombent pas dans le même piège que moi ; * aider les nouveaux contributeurs à participer au projet.</description>
+      <description>De la première &amp;ldquo;good first issue&amp;rdquo; résolue jusqu&#39;à une PR conséquente, je raconterai comment j&amp;rsquo;ai intégré le projet open source elm-in-elm (https://github.com/elm-in-elm/compiler).
+En suivant pas à pas mon expérience, nous verrons comment :
+ simplifier des tests ; ajouter de nouvelles de fonctionnalités sans se perdre dans le code ; éviter un bug sournois avant même de compiler ; détecter un bug alors que &amp;ldquo;tout semble marcher&amp;rdquo; ; modifier le code pour que les nouveaux contributeurs ne tombent pas dans le même piège que moi ; aider les nouveaux contributeurs à participer au projet.</description>
     </item>
     
     <item>
@@ -49,7 +50,7 @@ En suivant pas à pas mon expérience, nous verrons comment : * simplifier des t
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/eliminez_rapidement_des_bottlenecks_de_performance_avec_quickperf/</guid>
-      <description>Supposons que vous développiez une application en Java : comment détecter rapidement la présence d&amp;rsquo;importants goulots d&amp;rsquo;étranglement de performance (bottlenecks) ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Comment se rendre compte rapidement que votre application va consommer énormément de mémoire ? Nous allons montrer comment la librairie de test QuickPerf peut vous aider à répondre à ces questions.</description>
+      <description>Supposons que vous développiez une application en Java : comment détecter rapidement la présence d&amp;rsquo;importants goulots d&#39;étranglement de performance (bottlenecks) ? Comment savoir rapidement que le code nouvellement écrit va générer de multiples requêtes SQL ? Comment se rendre compte rapidement que votre application va consommer énormément de mémoire ?Nous allons montrer comment la librairie de test QuickPerf peut vous aider à répondre à ces questions.</description>
     </item>
     
     <item>
@@ -71,9 +72,9 @@ Les raisons évoquées sont souvent les mêmes, tels des stéréotypes :
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/graalvm__la_vm_polyglotte/</guid>
-      <description>“Cette librairie n&amp;rsquo;est pas disponible dans mon langage de programmation. Je dois la réécrire.&amp;ldquo;
-&amp;ldquo;Ce langage conviendrait parfaitement à mon problème, mais nous ne pouvons pas l&amp;rsquo;exécuter dans notre environnement.&amp;ldquo;
-&amp;ldquo;Ce problème est déjà résolu dans tel ou tel langage, mais ce langage est trop lent.&amp;ldquo;
+      <description>“Cette librairie n&amp;rsquo;est pas disponible dans mon langage de programmation. Je dois la réécrire.&amp;rdquo;
+&amp;ldquo;Ce langage conviendrait parfaitement à mon problème, mais nous ne pouvons pas l&amp;rsquo;exécuter dans notre environnement.&amp;rdquo;
+&amp;ldquo;Ce problème est déjà résolu dans tel ou tel langage, mais ce langage est trop lent.&amp;rdquo;
 Oyez , oyez Développeurs! Plus d’inquiétude, GraalVM arrive à la rescousse!</description>
     </item>
     
@@ -93,7 +94,7 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/monitorer_ses_apis_a_partir_de_zero__viser_l_au_dela__et_la_dimension_business/</guid>
-      <description>Initialement abordé sous un angle technique, le monitoring d&amp;rsquo;API gagne à évoluer en maturité pour devenir pourvoyeur d&amp;rsquo;informations à caractère stratégique. Dans un contexte de déploiement d&amp;rsquo;APIs REST, cette présentation passera en revue différentes façons de monitorer des APIs. Sans avoir la prétention d&amp;rsquo;être exhaustif sur les techniques à mettre en œuvre, nous montrerons que le choix des métriques est crucial, tout autant que l&amp;rsquo;exploitation qui est en faite. Ainsi, la collecte de métriques ne sera plus uniquement un enjeu IT, mais également business dans une démarche d&amp;rsquo;amélioration de l&amp;rsquo;expérience client.</description>
+      <description>Initialement abordé sous un angle technique, le monitoring d&amp;rsquo;API gagne à évoluer en maturité pour devenir pourvoyeur d&amp;rsquo;informations à caractère stratégique. Dans un contexte de déploiement d&amp;rsquo;APIs REST, cette présentation passera en revue différentes façons de monitorer des APIs. Sans avoir la prétention d&#39;être exhaustif sur les techniques à mettre en œuvre, nous montrerons que le choix des métriques est crucial, tout autant que l&amp;rsquo;exploitation qui est en faite. Ainsi, la collecte de métriques ne sera plus uniquement un enjeu IT, mais également business dans une démarche d&amp;rsquo;amélioration de l&amp;rsquo;expérience client.</description>
     </item>
     
     <item>
@@ -116,7 +117,7 @@ Sous le capot, vous appréhenderez les avantages et inconvénients des différen
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/trucs_et_astuces_pour_consommer_une_api_rest/</guid>
       <description>Consommer une API REST fait désormais partie de notre quotidien de développeur. Que ce soit pour appeler un composant de notre belle architecture micro-services, un service externe hébergé par un tiers, réaliser un appel HTTP est plus que courant dans nos applications. Nous avons à disposition pléthore de ressources pour bien concevoir son API REST mais comment faisons-nous pour en consommer une de manière efficace ?
- Cela commence souvent par la découverte d&amp;rsquo;une nouvelle API.</description>
+  Cela commence souvent par la découverte d&amp;rsquo;une nouvelle API.</description>
     </item>
     
     <item>
@@ -125,7 +126,7 @@ Sous le capot, vous appréhenderez les avantages et inconvénients des différen
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/vous_livrez_encore_des_bugs_en_prod/</guid>
-      <description>Le stagiaire a encore frappé ! C&amp;rsquo;était pourtant simple de passer le montant de la transaction en premier argument et le timestamp en second, non ? Et du coup, vous avez un problème à 1530795303€&amp;hellip;
+      <description>Le stagiaire a encore frappé ! C&#39;était pourtant simple de passer le montant de la transaction en premier argument et le timestamp en second, non ? Et du coup, vous avez un problème à 1530795303€&amp;hellip;
 Mais&amp;hellip; est-ce vraiment sa faute ? Est-ce qu&amp;rsquo;on n&amp;rsquo;aurait pas dû empêcher que cette erreur puisse même se produire ?
 Je vous affirme au contraire qu&amp;rsquo;il est de notre devoir de viser le zéro bugs !</description>
     </item>

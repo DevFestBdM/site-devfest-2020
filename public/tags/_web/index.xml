@@ -17,7 +17,7 @@
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/flutter_web___que_peut_on_faire_aujourd_hui/</guid>
       <description>Flutter est un framework permettant de générer à partir d&amp;rsquo;une seule base de code des applications pour les mobiles (Android/iOS), le desktop (Windows/Mac/Linux) &amp;hellip; mais aussi le Web !
-Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. Nous reviendrons dans ce talk sur ce qu&amp;rsquo;il est possible de faire aujourd&amp;rsquo;hui avec cette technologie (possibilités et limitations).</description>
+Annoncé en mai 2019, Flutter Web reste encore à l&#39;état de preview. Nous reviendrons dans ce talk sur ce qu&amp;rsquo;il est possible de faire aujourd&amp;rsquo;hui avec cette technologie (possibilités et limitations).</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ Annoncé en mai 2019, Flutter Web reste encore à l&amp;rsquo;état de preview. 
       <guid>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</guid>
       <description>Le format d&amp;rsquo;instruction binaire WebAssembly a ouvert la porte des navigateurs à tous les langages de haut-niveaux en leur fournissant une cible de compilation portable prise en charge depuis 2017 par les principaux navigateurs web.
 La communauté des développeurs .NET Core et ASP .NET Core s&amp;rsquo;est engouffrée dans la brèche pour respecter la promesse initiale de .NET : une même filière de développement permettant d&amp;rsquo;adresser tous les besoins.
-Les SPA étaient, jusqu&amp;rsquo;à présent, réservées aux développeurs Javascript et Typescript.</description>
+Les SPA étaient, jusqu&#39;à présent, réservées aux développeurs Javascript et Typescript.</description>
     </item>
     
     <item>
@@ -57,7 +57,7 @@ Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces der
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_capabilities_project__better__smoother__sexier/</guid>
-      <description>Fonction Offline: ✓ Fonction Installable: ✓ Accéder aux contacts : ✓ QUOI ? on peut accéder aux contacts ? Ecrire sur le file syste: ✓ NAN, Sérieux, ça aussi?  Vous l&amp;rsquo;avez compris, dans ce talk, on a pour objectif de vous présenter toutes les nouveautés de la plateformes web qui étaient jusqu&amp;rsquo;à aujourd&amp;rsquo;hui réservées au développement natif.</description>
+      <description>Fonction Offline: ✓ Fonction Installable: ✓ Accéder aux contacts : ✓ QUOI ? on peut accéder aux contacts ? Ecrire sur le file syste: ✓ NAN, Sérieux, ça aussi?  Vous l&amp;rsquo;avez compris, dans ce talk, on a pour objectif de vous présenter toutes les nouveautés de la plateformes web qui étaient jusqu&#39;à aujourd&amp;rsquo;hui réservées au développement natif.</description>
     </item>
     
     <item>
@@ -68,8 +68,8 @@ Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces der
       <guid>https://devfest.duboutdumonde.bzh/sessions/the_web_is_on____f_i_r_e__________conference/</guid>
       <description>La Web platform évolue en permanence ! Et ça fait 4 ans qu&amp;rsquo;on évoque les 4 même technos pour appliquer les 4 grands éléments qui font une bonne web app : Fast, Integrated, Reliable &amp;amp; Engaging !
 Il est temps de se mettre à jour ! Prenons quelques minutes pour :
- faire le point sur les tous derniers drafts du W3C, WICG et WHATWG
- les démontrer dans le browser</description>
+  faire le point sur les tous derniers drafts du W3C, WICG et WHATWG
+  les démontrer dans le browser</description>
     </item>
     
   </channel>
