@@ -5,7 +5,7 @@ id: wVvNE3ebE9ijkBe632R99kbnHa6z
 feature: false
 company: OVHcloud
 city: Brest, France
-photoURL: https://lh3.googleusercontent.com/a-/AAuE7mAmD9ZGSa7NgzfV_suso16VkkzpoIOlil9Lxj70
+photoURL: https://drive.google.com/file/d/1Z-PUMz_y5Mi4PhUDyxghxQ5mvtBrn8v9/view
 socials:
   - icon: twitter
     link: https://twitter.com/impolitepanda
