@@ -54,7 +54,7 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-3
-          talk: change_data_capture_in_production
+          talk: supercharge_your_builds_with_bazel
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
@@ -83,7 +83,7 @@
         - slot: pause-1
           talk: __pause
         - slot: slot-1
-          talk: supercharge_your_builds_with_bazel
+          talk: change_data_capture_in_production
         - slot: slot-2
           talk: docker__kubernetes___istio___tips__tricks___tools
         - slot: pause-2
