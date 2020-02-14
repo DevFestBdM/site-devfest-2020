@@ -50,17 +50,17 @@
         - slot: slot-1
           talk: implementer_un_webhook__pas_si_simple
         - slot: slot-2
-          talk: change_data_capture_in_production
+          talk: accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface
         - slot: pause-2
           talk: __pause
         - slot: slot-3
-          talk: accessibilite___et_si_on_laissait_les_utilisateurs_personnaliser_l_interface
+          talk: change_data_capture_in_production
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
-          talk: comprendre_la_langue_de_bois_pour_survivre_en_entreprise
-        - slot: slot-lt-2
           talk: comment_s_attacher_au_databinding
+        - slot: slot-lt-2
+          talk: developpeurs_en_reconversion_mais_developpeurs_quand_meme 
         - slot: slot-lt-3
           talk: flutter_web___que_peut_on_faire_aujourd_hui
         - slot: slot-4
@@ -85,11 +85,11 @@
         - slot: slot-1
           talk: supercharge_your_builds_with_bazel
         - slot: slot-2
-          talk: docker__kubernetes___istio___tips__tricks___tools  
+          talk: docker__kubernetes___istio___tips__tricks___tools
         - slot: pause-2
           talk: __pause
         - slot: slot-3
-          talk: vous_livrez_encore_des_bugs_en_prod
+          talk: la_telemetrie_au_secour_de_l_agilite    
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
@@ -119,7 +119,7 @@
         - slot: slot-1
           talk: et_si_le_design_etait_en_fait_l_affaire_de_tous
         - slot: slot-2
-          talk: la_telemetrie_au_secour_de_l_agilite
+          talk: vous_livrez_encore_des_bugs_en_prod
         - slot: pause-2
           talk: __pause
         - slot: slot-3
@@ -131,7 +131,7 @@
         - slot: slot-lt-2
           talk: les_risques_de_la_revue_de_code
         - slot: slot-lt-3
-          talk: developpeurs_en_reconversion_mais_developpeurs_quand_meme
+          talk: comprendre_la_langue_de_bois_pour_survivre_en_entreprise
         - slot: slot-4
           talk: trucs_et_astuces_pour_consommer_une_api_rest
         - slot: slot-5

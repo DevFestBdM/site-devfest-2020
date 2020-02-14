@@ -5,7 +5,7 @@ id: wVvNE3ebE9ijkBe632R99kbnHa6z
 feature: false
 company: OVHcloud
 city: Brest, France
-photoURL: https://drive.google.com/file/d/1Z-PUMz_y5Mi4PhUDyxghxQ5mvtBrn8v9/view
+photoURL: https://dl.plik.ovh/file/gziDizM4kguV8ZsB/9S1375129KBJJuaO/yann_photo.png
 socials:
   - icon: twitter
     link: https://twitter.com/impolitepanda
