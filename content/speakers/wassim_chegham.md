@@ -4,7 +4,7 @@ name: Wassim Chegham
 feature: false
 company: Microsoft
 city: Paris, France
-photoURL: https://drive.google.com/file/d/1Z-PUMz_y5Mi4PhUDyxghxQ5mvtBrn8v9/view
+photoURL: https://avatars1.githubusercontent.com/u/1699357?s=460&v=4
 socials:
   - icon: twitter
     link: https://twitter.com/manekinekko
