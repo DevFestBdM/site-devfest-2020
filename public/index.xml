@@ -12,16 +12,6 @@
     
     <item>
       <title></title>
-      <link>https://devfest.duboutdumonde.bzh/speakers/alexandre_touret/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/speakers/alexandre_touret/</guid>
-      <description>Je suis architecte et développeur sénior chez Worldline. Mon activité consiste à coder (principalement en Java), coacher des développeurs et concevoir des architectures.
-Blog: https://blog.touret.info</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/audrey_maniez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -491,6 +481,15 @@ Je suis aussi épicurien de nature et sportif à mes heures perdues …</descrip
       <description>Currenlty an architect in a french e-shopping company. I work on a daily basis around microservices and how to work with them.
 I&amp;rsquo;m really attached to new technology and work hard to be up to date on tech news. I happily share what I can whenever I get the chance. What I love the most is learning new things
 Speaker at Devoxx France 2018 =&amp;gt; &amp;ldquo;De la musique collaborative avec Kafka&amp;rdquo; / https://youtu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/wassim_chegham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/wassim_chegham/</guid>
+      <description>Wassim is a Senior Developer Advocate at Microsoft and contributor on the Angular and Bazel projects. He is the author of many open-source projects such as http://xlayers.dev and http://ngx.tools. He is also a GDE for the Angular team, the Google Assistant teams at Google. He is a member of the Node.js Foundation. A former member of the Angular Universal core team. He is currently learning about music composition and drawing. You can reach out to him on Twitter @manekinekko and http://wassim.</description>
     </item>
     
     <item>
@@ -1180,6 +1179,16 @@ Sous le capot, vous appréhenderez les avantages et inconvénients des différen
     </item>
     
     <item>
+      <title>Supercharge your builds with Bazel</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/supercharge_your_builds_with_bazel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/supercharge_your_builds_with_bazel/</guid>
+      <description>Vous aussi vous souffrez des temps de builds anormalement long de vos apps ? Savez-vous que sur le project Angular, par exemple, nous avons réussi à réduire le temps de build de 1 heure à 7min ?! Comment ? Eh bien, grâce à Bazel.
+Bazel est un outil open source capable d&amp;rsquo;orchestrer nos builds de manière distribuée à la fois localement sur nos machines mais aussi dans le Cloud. Il prend en charge tout type de technologie front ou back, y compris les applications mobiles et Web.</description>
+    </item>
+    
+    <item>
       <title>The Flutter Journey to a Production App</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/the_flutter_journey_to_a_production_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1226,15 +1235,6 @@ Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces der
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur/</guid>
       <description>Il a fallu 4 ans à Google App Engine pour passer de Java 7 à Java 8 &amp;hellip; Juste pour une mise à niveau simple de JVM?. Simple &amp;hellip; ou peut-être pas? Google App Engine est connu pour être un PAAS fonctionnant sur le système Borg de Google, le gestionnaire de cluster interne qui exécute des millions de jobs pour des millions d&amp;rsquo;applications &amp;hellip; Les origines de Kubernetes Open Source proviennent des concepts Borg.</description>
-    </item>
-    
-    <item>
-      <title>Unifiez vos traitements Batch et Streaming avec Apache Beam</title>
-      <link>https://devfest.duboutdumonde.bzh/sessions/unifiez_vos_traitements_batch_et_streaming_avec_apache_beam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/sessions/unifiez_vos_traitements_batch_et_streaming_avec_apache_beam/</guid>
-      <description>Il était une fois, dans le vaste monde du Big Data, plusieurs frameworks et environnements d&amp;rsquo;exécution. On les utilisaient pour concevoir, coder et exécuter des tâches ETL, streaming et batch. Il était très compliqué pour les développeurs et les architectes de choisir la bonne solution correspondant à chaque cas d&amp;rsquo;utilisation. Elle devait être évolutive et pouvoir s&amp;rsquo;adapter efficacement à la production. Il y avait Apache SPARK SQL, Apache Flink pour le streaming en temps réel, Hadoop Map reduce pour les utilisations en batch, etc.</description>
     </item>
     
     <item>

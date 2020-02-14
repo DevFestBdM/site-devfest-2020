@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://devfest.duboutdumonde.bzh/speakers/alexandre_touret/</loc>
-  </url>
-  
-  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/audrey_maniez/</loc>
   </url>
   
@@ -200,6 +196,10 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/vivien_maleze/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/wassim_chegham/</loc>
   </url>
   
   <url>
@@ -603,6 +603,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/supercharge_your_builds_with_bazel/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -648,10 +652,6 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur/</loc>
-  </url>
-  
-  <url>
-    <loc>https://devfest.duboutdumonde.bzh/sessions/unifiez_vos_traitements_batch_et_streaming_avec_apache_beam/</loc>
   </url>
   
   <url>

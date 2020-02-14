@@ -41,14 +41,5 @@ Vous l&amp;rsquo;utilisez peut être déjà, mais surement de façon simple: un 
 Cette présentation qui s&amp;rsquo;appuie sur de nombreuses démonstrations va vous permettre de découvrir la puissance de Redis et son système d&amp;rsquo;extensions (les Modules Redis). Redis vous permet maintenant de gérer plusieurs modèles de données: Clé/Valeur, Document/JSON, Time Series, Streaming Log, Search&amp;hellip; pour résumé une base de donnée polyglotte, comme vos applications!</description>
     </item>
     
-    <item>
-      <title>Unifiez vos traitements Batch et Streaming avec Apache Beam</title>
-      <link>https://devfest.duboutdumonde.bzh/sessions/unifiez_vos_traitements_batch_et_streaming_avec_apache_beam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/sessions/unifiez_vos_traitements_batch_et_streaming_avec_apache_beam/</guid>
-      <description>Il était une fois, dans le vaste monde du Big Data, plusieurs frameworks et environnements d&amp;rsquo;exécution. On les utilisaient pour concevoir, coder et exécuter des tâches ETL, streaming et batch. Il était très compliqué pour les développeurs et les architectes de choisir la bonne solution correspondant à chaque cas d&amp;rsquo;utilisation. Elle devait être évolutive et pouvoir s&amp;rsquo;adapter efficacement à la production. Il y avait Apache SPARK SQL, Apache Flink pour le streaming en temps réel, Hadoop Map reduce pour les utilisations en batch, etc.</description>
-    </item>
-    
   </channel>
 </rss>
