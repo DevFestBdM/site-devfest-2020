@@ -5,7 +5,7 @@ id: fydKcPU23pMvKYvkUWPNhUHnydx6
 feature: false
 company: OVHcloud
 city: Brest, France
-photoURL: https://drive.google.com/file/d/1BUqjSe3SgQ6NuI9TiHM-vIF8_6F6KFPd/view
+photoURL: https://dl.plik.ovh/file/gziDizM4kguV8ZsB/CzgndCC9Jv8kTYlE/david_photo.png
 socials:
   - icon: twitter
     link: https://twitter.com/davAtBzh
