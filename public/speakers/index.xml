@@ -12,16 +12,6 @@
     
     <item>
       <title></title>
-      <link>https://devfest.duboutdumonde.bzh/speakers/alexandre_touret/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/speakers/alexandre_touret/</guid>
-      <description>Je suis architecte et développeur sénior chez Worldline. Mon activité consiste à coder (principalement en Java), coacher des développeurs et concevoir des architectures.
-Blog: https://blog.touret.info</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://devfest.duboutdumonde.bzh/speakers/audrey_maniez/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -491,6 +481,15 @@ Je suis aussi épicurien de nature et sportif à mes heures perdues …</descrip
       <description>Currenlty an architect in a french e-shopping company. I work on a daily basis around microservices and how to work with them.
 I&amp;rsquo;m really attached to new technology and work hard to be up to date on tech news. I happily share what I can whenever I get the chance. What I love the most is learning new things
 Speaker at Devoxx France 2018 =&amp;gt; &amp;ldquo;De la musique collaborative avec Kafka&amp;rdquo; / https://youtu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://devfest.duboutdumonde.bzh/speakers/wassim_chegham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/speakers/wassim_chegham/</guid>
+      <description>Wassim is a Senior Developer Advocate at Microsoft and contributor on the Angular and Bazel projects. He is the author of many open-source projects such as http://xlayers.dev and http://ngx.tools. He is also a GDE for the Angular team, the Google Assistant teams at Google. He is a member of the Node.js Foundation. A former member of the Angular Universal core team. He is currently learning about music composition and drawing. You can reach out to him on Twitter @manekinekko and http://wassim.</description>
     </item>
     
     <item>

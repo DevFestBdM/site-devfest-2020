@@ -54,13 +54,13 @@
         - slot: pause-2
           talk: __pause
         - slot: slot-3
-          talk: unifiez_vos_traitements_batch_et_streaming_avec_apache_beam
+          talk: supercharge_your_builds_with_bazel
         - slot: lunch
           talk: __lunch
         - slot: slot-lt-1
-          talk: comprendre_la_langue_de_bois_pour_survivre_en_entreprise
-        - slot: slot-lt-2
           talk: comment_s_attacher_au_databinding
+        - slot: slot-lt-2
+          talk: developpeurs_en_reconversion_mais_developpeurs_quand_meme 
         - slot: slot-lt-3
           talk: flutter_web___que_peut_on_faire_aujourd_hui
         - slot: slot-4
@@ -85,7 +85,7 @@
         - slot: slot-1
           talk: change_data_capture_in_production
         - slot: slot-2
-          talk: docker__kubernetes___istio___tips__tricks___tools  
+          talk: docker__kubernetes___istio___tips__tricks___tools
         - slot: pause-2
           talk: __pause
         - slot: slot-3
@@ -131,7 +131,7 @@
         - slot: slot-lt-2
           talk: les_risques_de_la_revue_de_code
         - slot: slot-lt-3
-          talk: developpeurs_en_reconversion_mais_developpeurs_quand_meme
+          talk: comprendre_la_langue_de_bois_pour_survivre_en_entreprise
         - slot: slot-4
           talk: trucs_et_astuces_pour_consommer_une_api_rest
         - slot: slot-5

@@ -347,7 +347,7 @@ Si oui, alors je vous propose de mettre votre tenue d&amp;rsquo;aventurier et de
     </item>
     
     <item>
-      <title>La télémétrie au secour de l&#39;Agilité !</title>
+      <title>La télémétrie au secours de l&#39;Agilité !</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/la_telemetrie_au_secour_de_l_agilite/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -452,6 +452,16 @@ Sous le capot, vous appréhenderez les avantages et inconvénients des différen
     </item>
     
     <item>
+      <title>Supercharge your builds with Bazel</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/supercharge_your_builds_with_bazel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/supercharge_your_builds_with_bazel/</guid>
+      <description>Vous aussi vous souffrez des temps de builds anormalement long de vos apps ? Savez-vous que sur le project Angular, par exemple, nous avons réussi à réduire le temps de build de 1 heure à 7min ?! Comment ? Eh bien, grâce à Bazel.
+Bazel est un outil open source capable d&amp;rsquo;orchestrer nos builds de manière distribuée à la fois localement sur nos machines mais aussi dans le Cloud. Il prend en charge tout type de technologie front ou back, y compris les applications mobiles et Web.</description>
+    </item>
+    
+    <item>
       <title>The Flutter Journey to a Production App</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/the_flutter_journey_to_a_production_app/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -498,15 +508,6 @@ Pour changer, regardons ensemble ce que les navigateurs ont mis en place ces der
       
       <guid>https://devfest.duboutdumonde.bzh/sessions/une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur/</guid>
       <description>Il a fallu 4 ans à Google App Engine pour passer de Java 7 à Java 8 &amp;hellip; Juste pour une mise à niveau simple de JVM?. Simple &amp;hellip; ou peut-être pas? Google App Engine est connu pour être un PAAS fonctionnant sur le système Borg de Google, le gestionnaire de cluster interne qui exécute des millions de jobs pour des millions d&amp;rsquo;applications &amp;hellip; Les origines de Kubernetes Open Source proviennent des concepts Borg.</description>
-    </item>
-    
-    <item>
-      <title>Unifiez vos traitements Batch et Streaming avec Apache Beam</title>
-      <link>https://devfest.duboutdumonde.bzh/sessions/unifiez_vos_traitements_batch_et_streaming_avec_apache_beam/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://devfest.duboutdumonde.bzh/sessions/unifiez_vos_traitements_batch_et_streaming_avec_apache_beam/</guid>
-      <description>Il était une fois, dans le vaste monde du Big Data, plusieurs frameworks et environnements d&amp;rsquo;exécution. On les utilisaient pour concevoir, coder et exécuter des tâches ETL, streaming et batch. Il était très compliqué pour les développeurs et les architectes de choisir la bonne solution correspondant à chaque cas d&amp;rsquo;utilisation. Elle devait être évolutive et pouvoir s&amp;rsquo;adapter efficacement à la production. Il y avait Apache SPARK SQL, Apache Flink pour le streaming en temps réel, Hadoop Map reduce pour les utilisations en batch, etc.</description>
     </item>
     
     <item>
