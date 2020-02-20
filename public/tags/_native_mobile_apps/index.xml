@@ -42,6 +42,17 @@ Nous verrons en détails les quatre outils de profiling :
     </item>
     
     <item>
+      <title>Comment s&#39;attacher au databinding?</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/comment_s_attacher_au_databinding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/comment_s_attacher_au_databinding/</guid>
+      <description>Vous ne voyez pas l&amp;rsquo;intérêt du MVVM? Vous avez encore des findViewById dans vos projets? Vous faites des cauchemars avec vos callbacks?
+Ce petit quickie est fait pour vous.
+Avec quelques petits exemples, je vais vous montrez ce que peut apporter le databinding Android pour améliorer votre code, le rendre plus maintenable et plus facilement testable.</description>
+    </item>
+    
+    <item>
       <title>Faire du hard en soft</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/faire_du_hard_en_soft/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
