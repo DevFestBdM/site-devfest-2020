@@ -561,10 +561,10 @@ Mais l’absence de support homogène entre les navigateurs et le manque de pers
     
     <item>
       <title>Altran</title>
-      <link>https://devfest.duboutdumonde.bzh/partners/startup/asi/</link>
+      <link>https://devfest.duboutdumonde.bzh/partners/startup/altran/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devfest.duboutdumonde.bzh/partners/startup/asi/</guid>
+      <guid>https://devfest.duboutdumonde.bzh/partners/startup/altran/</guid>
       <description></description>
     </item>
     
@@ -578,6 +578,15 @@ Mais l’absence de support homogène entre les navigateurs et le manque de pers
 Après une introduction d&amp;rsquo;utilisation de l&amp;rsquo;outil, je propose de réaliser une demo live permettant d&amp;rsquo;expliquer comment utiliser les différents outils proposés par le Profiler et comment configurer son application pour réaliser un profiling avancé.
 Nous verrons en détails les quatre outils de profiling :
  L&amp;rsquo;utilisation du CPU L&amp;rsquo;utilisation de la mémoire vive Les requêtes réseau effectuées La consommation d&amp;rsquo;énergie  </description>
+    </item>
+    
+    <item>
+      <title>Apizee</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/startup/apizee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/startup/apizee/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -659,10 +668,10 @@ Mais alors pourquoi pas gérer nos mots de passe comme du code ?</description>
     
     <item>
       <title>CESI</title>
-      <link>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</link>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/cesi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</guid>
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/cesi/</guid>
       <description></description>
     </item>
     
@@ -943,6 +952,15 @@ Côté consommateur de Webhook, cela semble plutôt facile à développer… Cô
     </item>
     
     <item>
+      <title>Infotel</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/infotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/infotel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>J&#39;ai hacké ma SPA avec C#</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1081,6 +1099,15 @@ Cette présentation courte et humoristique n&amp;rsquo;est faite que de mauvaise
     </item>
     
     <item>
+      <title>OVHcloud</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/ovhcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/ovhcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Pause</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/__pause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1158,6 +1185,15 @@ Nous développerons une application traitant des events.
 Vous avez envie de la développer de manière réactive. Nom de zeus ! Nous sommes revenus à l’époque de l’impératif. Pour éviter les paradoxes spatio-temporels nous devrons voyager à travers les époques.
 Impératif, callback hell, bloquant, c’est pas le pied&amp;hellip;
 Sous le capot, vous appréhenderez les avantages et inconvénients des différents paradigmes.</description>
+    </item>
+    
+    <item>
+      <title>Saagie</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/saagie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/saagie/</guid>
+      <description></description>
     </item>
     
     <item>

@@ -255,11 +255,15 @@
   </url>
   
   <url>
-    <loc>https://devfest.duboutdumonde.bzh/partners/startup/asi/</loc>
+    <loc>https://devfest.duboutdumonde.bzh/partners/startup/altran/</loc>
   </url>
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/android_studio_profiler_discovery/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/startup/apizee/</loc>
   </url>
   
   <url>
@@ -295,7 +299,7 @@
   </url>
   
   <url>
-    <loc>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</loc>
+    <loc>https://devfest.duboutdumonde.bzh/partners/gold/cesi/</loc>
   </url>
   
   <url>
@@ -435,6 +439,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/silver/infotel/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/j_ai_hacke_ma_spa_avec_c/</loc>
   </url>
   
@@ -503,6 +511,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/gold/ovhcloud/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/partners/</loc>
     <xhtml:link
                 rel="alternate"
@@ -550,6 +562,10 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/retour_vers_le_java_util_concurrent_future/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/partners/silver/saagie/</loc>
   </url>
   
   <url>

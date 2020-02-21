@@ -21,10 +21,19 @@
     
     <item>
       <title>Altran</title>
-      <link>https://devfest.duboutdumonde.bzh/partners/startup/asi/</link>
+      <link>https://devfest.duboutdumonde.bzh/partners/startup/altran/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devfest.duboutdumonde.bzh/partners/startup/asi/</guid>
+      <guid>https://devfest.duboutdumonde.bzh/partners/startup/altran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apizee</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/startup/apizee/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/startup/apizee/</guid>
       <description></description>
     </item>
     
@@ -75,10 +84,10 @@
     
     <item>
       <title>CESI</title>
-      <link>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</link>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/cesi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://devfest.duboutdumonde.bzh/partners/gold/arkea-copy/</guid>
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/cesi/</guid>
       <description></description>
     </item>
     
@@ -137,6 +146,15 @@
     </item>
     
     <item>
+      <title>Infotel</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/infotel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/infotel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lannion-Trégor Communauté</title>
       <link>https://devfest.duboutdumonde.bzh/partners/soutien/ltc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -160,6 +178,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://devfest.duboutdumonde.bzh/partners/gold/orange/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OVHcloud</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/gold/ovhcloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/gold/ovhcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Saagie</title>
+      <link>https://devfest.duboutdumonde.bzh/partners/silver/saagie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/partners/silver/saagie/</guid>
       <description></description>
     </item>
     
