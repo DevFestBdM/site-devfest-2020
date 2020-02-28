@@ -93,6 +93,18 @@ Mais alors pourquoi pas gérer nos mots de passe comme du code ?</description>
     </item>
     
     <item>
+      <title>Chrome devtools, du prototype à la production</title>
+      <link>https://devfest.duboutdumonde.bzh/sessions/chrome_devtools_du_prototype_a_la_production/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://devfest.duboutdumonde.bzh/sessions/chrome_devtools_du_prototype_a_la_production/</guid>
+      <description>Chrome devtools: du prototype à la production
+Dans cette présentation des chrome devtools, je vous propose une série de démos rassemblées en trois thèmes: Développez vos prototypes avec les devtools: tips and tricks pour coder plus rapidement vos MVPs (CSS, Shortcuts, développement web mobile, responsive web design)
+Préparez votre webapp pour la production: Check List des bonnes pratiques, audits et recommandations depuis le panel d&amp;rsquo;Audit
+Corriger les bugs de production: Apprendre à mieux débugger avec les breakpoints et ses fonctionnalitées avancées</description>
+    </item>
+    
+    <item>
       <title>Comment réussir sa première contribution open source ?</title>
       <link>https://devfest.duboutdumonde.bzh/sessions/comment_reussir_sa_premiere_contribution_open_source/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

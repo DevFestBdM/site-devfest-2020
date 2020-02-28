@@ -34,7 +34,7 @@
         - slot: slot-6
           talk: une_decennie_d_exploitation_de_vos_applications_dans_le_cloud_avec_des_conteneurs_securises_____evolution_d_un_paas_vu_de_l_interieur
         - slot: slot-7
-          talk: j_ai_hacke_ma_spa_avec_c    
+          talk: chrome_devtools_du_prototype_a_la_production   
         - slot: pause-4
           talk: __pause
         - slot: keynote-close-1

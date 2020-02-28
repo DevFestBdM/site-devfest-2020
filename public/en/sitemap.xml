@@ -151,6 +151,10 @@
   </url>
   
   <url>
+    <loc>https://devfest.duboutdumonde.bzh/speakers/philippe_antoine/</loc>
+  </url>
+  
+  <url>
     <loc>https://devfest.duboutdumonde.bzh/speakers/pierre_tibulle/</loc>
   </url>
   
@@ -304,6 +308,10 @@
   
   <url>
     <loc>https://devfest.duboutdumonde.bzh/sessions/change_data_capture_in_production/</loc>
+  </url>
+  
+  <url>
+    <loc>https://devfest.duboutdumonde.bzh/sessions/chrome_devtools_du_prototype_a_la_production/</loc>
   </url>
   
   <url>
